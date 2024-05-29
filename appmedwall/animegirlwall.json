@@ -3,16 +3,16 @@
     "app_id":"14400",
     "app_key":"7c22942b749fe6a6e361b675e96b3ee9",
     "banner": {
-      "placement_id": "10106",
-      "unit_id": "26772"
+      "placement_id": "1498695",
+      "unit_id": "3327197"
     },
     "interstitial": {
-      "placement_id": "2906",
-      "unit_id": "4623"
+      "placement_id": "1500088",
+      "unit_id": "3328746"
     },
     "native": {
-      "placement_id": "2906",
-      "unit_id": "4623"
+      "placement_id": "1547569",
+      "unit_id": "3389681"
     }
   }
 }
