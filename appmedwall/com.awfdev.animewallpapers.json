@@ -1,19 +1,19 @@
 {
   "show_data":"true",
   "mintegral": {
-    "app_id":"2866",
+    "app_id":"292595",
     "app_key":"a9a2860e74789d82cee8f6294b234ef6",
     "banner": {
-      "placement_id": "15477",
-      "unit_id": "33899"
+      "placement_id": "1550322",
+      "unit_id": "3393098"
     },
     "interstitial": {
-      "placement_id": "15000",
-      "unit_id": "33287"
+      "placement_id": "1550325",
+      "unit_id": "3393101"
     },
     "native": {
-      "placement_id": "15475",
-      "unit_id": "33896"
+      "placement_id": "1550324",
+      "unit_id": "3393100"
     }
   }
 }
