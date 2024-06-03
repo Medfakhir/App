@@ -1,0 +1,19 @@
+{
+  "show_data":"true",
+  "mintegral": {
+    "app_id":"2932",
+    "app_key":"a9a2860e74789d82cee8f6294b234ef6",
+    "banner": {
+      "placement_id": "15557",
+      "unit_id": "33995"
+    },
+    "interstitial": {
+      "placement_id": "15557",
+      "unit_id": "33996"
+    },
+    "native": {
+      "placement_id": "15557",
+      "unit_id": "33996"
+    }
+  }
+}
