@@ -40,7 +40,7 @@
   "Paywall1":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "ShowTrial":false,
+    "ShowTrial":true,
     "LifeTimeSKu":"com.BlueWallpapers.ForBoysmedpp.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
     "MonthlySKu":"com.BlueWallpapers.ForBoysmedpp.Monthly",
