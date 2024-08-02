@@ -41,23 +41,23 @@
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
     "ShowTrial":true,
-    "LifeTimeSKu":"com.BlueWallpapers.ForBoysmedpp.lifetime",
+    "LifeTimeSKu":"com.CuteFox.Wallpapersmedpro.lifetime",
     "LifeTimePrice":"$39.99 / Lifetime",
-    "MonthlySKu":"com.BlueWallpapers.ForBoysmedpp.Monthly",
+    "MonthlySKu":"com.CuteFox.Wallpapersmedpro.Monthly",
     "MonthlyPrice":"$3.99 / Month",
-    "AnnualSKu":"com.BlueWallpapers.ForBoysmedpp.Yearly",
+    "AnnualSKu":"com.CuteFox.Wallpapersmedpro.Yearly",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall2":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "AnnualSKu":"com.BlueWallpapers.ForBoysmedpp.Yearly",
+    "AnnualSKu":"com.CuteFox.Wallpapersmedpro.Yearly",
     "AnnualPrice":"$29.99 / Year"
   },
   "Paywall3":{
     "ShowHardPaywall":true,
     "ShowHardPaywallFor":5,
-    "LifeTimeSKu":"com.BlueWallpapers.ForBoysmedpp.lifetime",
+    "LifeTimeSKu":"com.CuteFox.Wallpapersmedpro.lifetime",
     "LifeTimePrice":"$39.99"
   }
 }
