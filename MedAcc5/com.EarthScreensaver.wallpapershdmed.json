@@ -1,0 +1,65 @@
+{
+  "Paywall1": {
+    "AnnualSKu": "com.korchiapp.hdwallpapers.year",
+    "ShowTrial": true,
+    "MonthlySKu": "com.korchiapp.hdwallpapers.month",
+    "AnnualPrice": "$29.99 / Year",
+    "LifeTimeSKu": "com.korchiapp.hdwallpapers.life",
+    "MonthlyPrice": "$3.99 / Month",
+    "LifeTimePrice": "$39.99 / Lifetime",
+    "ShowHardPaywall": true,
+    "ShowHardPaywallFor": 5
+  },
+  "Paywall2": {
+    "AnnualSKu": "com.korchiapp.hdwallpapers.year",
+    "AnnualPrice": "$29.99 / Year",
+    "ShowHardPaywall": true,
+    "ShowHardPaywallFor": 5
+  },
+  "Paywall3": {
+    "LifeTimeSKu": "com.korchiapp.hdwallpapers.life",
+    "LifeTimePrice": "$39.99",
+    "ShowHardPaywall": true,
+    "ShowHardPaywallFor": 5
+  },
+  "AdsManager": {
+    "ShowAds": true,
+    "UnityID": "xxxx",
+    "BannerAds": "admob",
+    "NativeAds": "min",
+    "RewardAds": "admob",
+    "AdmobAppID": "ca-app-pub-4481347566210322~8738363627",
+    "AdmobBanner": "ca-app-pub-4481347566210322/7425281956",
+    "AdmobNative": "ca-app-pub-4481347566210322/9420889901",
+    "AdmobReward": "ca-app-pub-4481347566210322/4150265828",
+    "UnityBanner": "xxxxx",
+    "UnityReward": "zzzzz",
+    "MintegralAppID": "144002",
+    "ShowLoadingAds": true,
+    "AdmobClickCount": 4,
+    "InterstitialAds": "unity",
+    "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
+    "NormalClickCount": 1,
+    "AdmobInterstitial": "ca-app-pub-4481347566210322/7672693966",
+    "UnityInterstitial": "xxxxx",
+    "MintegralBannerUnitID": "2677210",
+    "MintegralNativeUnitID": "462377",
+    "MintegralRewardUnitID": "462372",
+    "MintegralSplashUnitID": "1542060",
+    "MintegralBannerPlacementID": "1010694",
+    "MintegralNativePlacementID": "290656",
+    "MintegralRewardPlacementID": "290651",
+    "MintegralSplashPlacementID": "328916",
+    "MintegralInterstitialUnitID": "462374",
+    "MintegralInterstitialPlacementID": "290653"
+  },
+  "AppControl": {
+    "ShowUpdate": false,
+    "UpdateLink": "",
+    "OnesignalID": "600682f2-6f05-48a3-9415-35f147b5a29b",
+    "UpdateVersion": 6,
+    "ShowMockupData": false,
+    "UpdateFromAmazon": true,
+    "ShowRewardAndSubscribe": false
+  }
+}
