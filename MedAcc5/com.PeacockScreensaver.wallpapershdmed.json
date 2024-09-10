@@ -1,23 +1,23 @@
 {
   "Paywall1": {
-    "AnnualSKu": "com.korchiapp.hdwallpapers.year",
+    "AnnualSKu": "com.PeacockScreensaver.wallpapershdmed.yealy",
     "ShowTrial": true,
-    "MonthlySKu": "com.korchiapp.hdwallpapers.month",
+    "MonthlySKu": "com.PeacockScreensaver.wallpapershdmed.monthly",
     "AnnualPrice": "$29.99 / Year",
-    "LifeTimeSKu": "com.korchiapp.hdwallpapers.life",
+    "LifeTimeSKu": "com.PeacockScreensaver.wallpapershdmed.lifetime",
     "MonthlyPrice": "$3.99 / Month",
     "LifeTimePrice": "$39.99 / Lifetime",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall2": {
-    "AnnualSKu": "com.korchiapp.hdwallpapers.year",
+    "AnnualSKu": "com.PeacockScreensaver.wallpapershdmed.yealy",
     "AnnualPrice": "$29.99 / Year",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall3": {
-    "LifeTimeSKu": "com.korchiapp.hdwallpapers.life",
+    "LifeTimeSKu": "com.PeacockScreensaver.wallpapershdmed.lifetime",
     "LifeTimePrice": "$39.99",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
