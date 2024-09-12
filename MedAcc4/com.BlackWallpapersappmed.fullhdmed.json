@@ -1,9 +1,9 @@
 {
   "app_control": {
     "show_data": "true",
-    "show_ads": "false",
-    "show_category": "false",
-    "use_mintegral": "false",
+    "show_ads": "true",
+    "show_category": "true",
+    "use_mintegral": "true",
     "use_admob": "false",
     "use_unity": "false"
   },
@@ -156,23 +156,23 @@
   },
   "ads_manager": {
     "mintegral": {
-      "app_id": "307079",
+      "app_id": "316948",
       "app_key": "a9a2860e74789d82cee8f6294b234ef6",
       "banner": {
-        "placement_id": "1684115",
-        "unit_id": "3562676"
+        "placement_id": "1775178",
+        "unit_id": "3677633"
       },
       "interstitial": {
-        "placement_id": "1684117",
-        "unit_id": "3562678"
+        "placement_id": "1775180",
+        "unit_id": "3677635"
       },
       "native": {
-        "placement_id": "1684121",
-        "unit_id": "3562682"
+        "placement_id": "1775184",
+        "unit_id": "3677639"
       },
       "reward": {
-        "placement_id": "1684119",
-        "unit_id": "3562680"
+        "placement_id": "1775182",
+        "unit_id": "3677637"
       }
     }
   }
