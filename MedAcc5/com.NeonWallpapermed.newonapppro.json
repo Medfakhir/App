@@ -1,23 +1,23 @@
 {
   "Paywall1": {
-    "AnnualSKu": "com.EarthScreensaver.wallpapershdmed.yealy",
+    "AnnualSKu": "com.NeonWallpapermed.newonapppro.yearly",
     "ShowTrial": true,
-    "MonthlySKu": "com.EarthScreensaver.wallpapershdmed.monthly",
+    "MonthlySKu": "com.NeonWallpapermed.newonapppro.monthly",
     "AnnualPrice": "$29.99 / Year",
-    "LifeTimeSKu": "com.EarthScreensaver.wallpapershdmed.lifetime",
+    "LifeTimeSKu": "com.NeonWallpapermed.newonapppro.lifetime",
     "MonthlyPrice": "$3.99 / Month",
     "LifeTimePrice": "$39.99 / Lifetime",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall2": {
-    "AnnualSKu": "com.EarthScreensaver.wallpapershdmed.yealy",
+    "AnnualSKu": "com.NeonWallpapermed.newonapppro.yearly",
     "AnnualPrice": "$29.99 / Year",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall3": {
-    "LifeTimeSKu": "com.EarthScreensaver.wallpapershdmed.lifetime",
+    "LifeTimeSKu": "com.NeonWallpapermed.newonapppro.lifetime",
     "LifeTimePrice": "$39.99",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
