@@ -4,7 +4,7 @@
     "ShowTrial": true,
     "MonthlySKu": "com.RetrowavemedLive.Wallpaper.monthly",
     "AnnualPrice": "$29.99 / Year",
-    "LifeTimeSKu": "com.RetrowavemedLive.Wallpaper.lifetime",
+    "LifeTimeSKu": "com.RetrowavemedLive.Wallpaper.lifetimee",
     "MonthlyPrice": "$3.99 / Month",
     "LifeTimePrice": "$39.99 / Lifetime",
     "ShowHardPaywall": true,
@@ -17,7 +17,7 @@
     "ShowHardPaywallFor": 5
   },
   "Paywall3": {
-    "LifeTimeSKu": "com.RetrowavemedLive.Wallpaper.lifetime",
+    "LifeTimeSKu": "com.RetrowavemedLive.Wallpaper.lifetimee",
     "LifeTimePrice": "$39.99",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
