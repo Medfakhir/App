@@ -1,23 +1,23 @@
 {
   "Paywall1": {
-    "AnnualSKu": "com.CutePinkpromed.Wallpapers.yearly",
+    "AnnualSKu": "com.pinkcute.medhippowallpaper.yearly",
     "ShowTrial": true,
-    "MonthlySKu": "com.CutePinkpromed.Wallpapers.monthly",
+    "MonthlySKu": "com.pinkcute.medhippowallpaper.monthly",
     "AnnualPrice": "$29.99 / Year",
-    "LifeTimeSKu": "com.CutePinkpromed.Wallpapers.lifetime",
+    "LifeTimeSKu": "com.pinkcute.medhippowallpaper.lifetime",
     "MonthlyPrice": "$3.99 / Month",
     "LifeTimePrice": "$39.99 / Lifetime",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall2": {
-    "AnnualSKu": "com.CutePinkpromed.Wallpapers.yearly",
+    "AnnualSKu": "com.pinkcute.medhippowallpaper.yearly",
     "AnnualPrice": "$29.99 / Year",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
   },
   "Paywall3": {
-    "LifeTimeSKu": "com.CutePinkpromed.Wallpapers.lifetime",
+    "LifeTimeSKu": "com.pinkcute.medhippowallpaper.lifetime",
     "LifeTimePrice": "$39.99",
     "ShowHardPaywall": true,
     "ShowHardPaywallFor": 5
