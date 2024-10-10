@@ -23,7 +23,7 @@
     "ShowHardPaywallFor": 5
   },
  "AdsManager": {
-    "ShowAds": true,
+    "ShowAds": false,
     "UnityID": "xxxx",
     "BannerAds": "admob",
     "NativeAds": "min",
