@@ -24,7 +24,7 @@
   },
   "AdsManager": {
     "ShowAds": true,
-    "UnityID": "xxxx",
+    "UnityID": "5712167",
     "BannerAds": "admob",
     "NativeAds": "min",
     "RewardAds": "admob",
