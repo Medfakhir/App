@@ -2,7 +2,7 @@
   "app_control": {
     "show_data": "true",
     "show_ads": "ture",
-    "show_category": "false",
+    "show_category": "true",
     "use_mintegral": "true",
     "use_admob": "false",
     "use_unity": "false"
