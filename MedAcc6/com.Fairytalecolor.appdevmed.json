@@ -1,0 +1,25 @@
+{
+  "ads_manager": {
+    "mintegral": {
+      "showAds": false, 
+      "app_id": "144002",
+      "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
+      "banner": {
+        "placement_id": "1010694",
+        "unit_id": "2677210"
+      },
+      "interstitial": {
+        "placement_id": "290653",
+        "unit_id": "462374"
+      },
+      "native": {
+        "placement_id": "290656",
+        "unit_id": "462377"
+      },
+      "reward": {
+        "placement_id": "290651",
+        "unit_id": "462372"
+      }
+    }
+  }
+}
