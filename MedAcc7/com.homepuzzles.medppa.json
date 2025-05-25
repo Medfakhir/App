@@ -17,8 +17,8 @@
         "unit_id": "462372"
       },
       "interstitial": {
-        "placement_id": "290653",
-        "unit_id": "462374"
+        "mintegralInterUnitID": "462374",
+        "mintegralInterPlacementID": "290653"
       }
     }
   }
