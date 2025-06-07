@@ -2,9 +2,9 @@
   "matches": [
     {
       "team1": "Real Madrid",
-      "team1_logo": "https://example.com/logos/real-madrid.png",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
       "team2": "Barcelona",
-      "team2_logo": "https://example.com/logos/barcelona.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/2023px-Logo_FC_Barcelona.svg.png",
       "m3u_url": "https://example.com/streams/match1.m3u8"
     },
     {
