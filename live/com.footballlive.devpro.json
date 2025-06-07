@@ -1,18 +1,53 @@
 {
-"matches": [
-{
-"team1": "Real Madrid",
-"team1_logo": "https://example.com/logos/real-madrid.png",
-"team2": "Barcelona",
-"team2_logo": "https://example.com/logos/barcelona.png",
-"m3u_url": "https://example.com/streams/match1.m3u8"
-},
-{
-"team1": "Manchester City",
-"team1_logo": "https://example.com/logos/man-city.png",
-"team2": "Liverpool",
-"team2_logo": "https://example.com/logos/liverpool.png",
-"m3u_url": "https://example.com/streams/match2.m3u8"
-}
-]
+  "matches": [
+    {
+      "team1": "Real Madrid",
+      "team1_logo": "https://example.com/logos/real-madrid.png",
+      "team2": "Barcelona",
+      "team2_logo": "https://example.com/logos/barcelona.png",
+      "m3u_url": "https://example.com/streams/match1.m3u8"
+    },
+    {
+      "team1": "Manchester City",
+      "team1_logo": "https://example.com/logos/man-city.png",
+      "team2": "Liverpool",
+      "team2_logo": "https://example.com/logos/liverpool.png",
+      "m3u_url": "https://example.com/streams/match2.m3u8"
+    },
+    {
+      "team1": "Bayern Munich",
+      "team1_logo": "https://example.com/logos/bayern.png",
+      "team2": "Borussia Dortmund",
+      "team2_logo": "https://example.com/logos/dortmund.png",
+      "m3u_url": "https://example.com/streams/match3.m3u8"
+    },
+    {
+      "team1": "Juventus",
+      "team1_logo": "https://example.com/logos/juventus.png",
+      "team2": "AC Milan",
+      "team2_logo": "https://example.com/logos/ac-milan.png",
+      "m3u_url": "https://example.com/streams/match4.m3u8"
+    },
+    {
+      "team1": "Paris Saint-Germain",
+      "team1_logo": "https://example.com/logos/psg.png",
+      "team2": "Marseille",
+      "team2_logo": "https://example.com/logos/marseille.png",
+      "m3u_url": "https://example.com/streams/match5.m3u8"
+    },
+    {
+      "team1": "Chelsea",
+      "team1_logo": "https://example.com/logos/chelsea.png",
+      "team2": "Arsenal",
+      "team2_logo": "https://example.com/logos/arsenal.png",
+      "m3u_url": "https://example.com/streams/match6.m3u8"
+    },
+    {
+      "team1": "Inter Milan",
+      "team1_logo": "https://example.com/logos/inter.png",
+      "team2": "Napoli",
+      "team2_logo": "https://example.com/logos/napoli.png",
+      "m3u_url": "https://example.com/streams/match7.m3u8"
+    }
+  ]
 }
