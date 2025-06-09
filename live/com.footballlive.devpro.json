@@ -1,52 +1,16 @@
 {
   "matches": [
     {
-      "team1": "Real Madrid",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-      "team2": "Barcelona",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/2023px-Logo_FC_Barcelona.svg.png",
-      "m3u_url": "https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/dcLD3f1q34RHbQQspL75uto2lx6Kn9X8IE2BRVNbBzAUJVpUH4Dwj4zZrusCYBKq59v67vQfihc-4lPcrsKI8JkaPSEfdYt0nhvyzff0kl6NDeEnRS6IL5I8BOgrlLzYuwf1Z8XDwp6aGVuAr5qDhB8m8FAXA5M65NXf6dTV_Gzo5XQZ-CeioCGLWpoBNuI-/hls/index.m3u8"
+      "team1": "Finlande",
+      "team1_logo": "hhttps://lsm-static-prod.livescore.com/high/enet/7871.png",
+      "team2": "Pologne",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/teambadge/poland-2024.png",
+      "m3u_url": "https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/2yKepIFST1g3fyf5ecH9Wuj43gHD2tMM8yYUsJAqZr--xryZkEjPrtoNkqH8Ya3uB5HTGhiVpqcJnwWi5twUuIeZaPxWdQIhaOxmw2zcoc7gAUNDjoO4QcWKm0QrP40-w1_ogoiK6hWjDb54kiE8kx-fEHI4FHrNZQF9tp14hrY/hls/index.m3u8"
     {
-      "team1": "Manchester City",
-      "team1_logo": "https://example.com/logos/man-city.png",
-      "team2": "Liverpool",
-      "team2_logo": "https://example.com/logos/liverpool.png",
-      "m3u_url": "https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/ib1gRw3JfvMI1GO1hWWG0uz48_5omuFjPkNuj2SJmw-3SJzexRDk4l79mp1dFyfiypkHW1EnjoKJ3d8uzd50sQoGluAmz0hAiMMSnvyljPAfgAT-7kdTn5SQuyjmb81q9fj7k85WmDbY6Zo0I-4xCayFClLxEME_S2OBYY8qjHc5ejGwKLsF74UPeo-9Ersn/hls/index.m3u8"
-    },
-    {
-      "team1": "Bayern Munich",
-      "team1_logo": "https://example.com/logos/bayern.png",
-      "team2": "Borussia Dortmund",
-      "team2_logo": "https://example.com/logos/dortmund.png",
-      "m3u_url": "https://example.com/streams/match3.m3u8"
-    },
-    {
-      "team1": "Juventus",
-      "team1_logo": "https://example.com/logos/juventus.png",
-      "team2": "AC Milan",
-      "team2_logo": "https://example.com/logos/ac-milan.png",
-      "m3u_url": "https://example.com/streams/match4.m3u8"
-    },
-    {
-      "team1": "Paris Saint-Germain",
-      "team1_logo": "https://example.com/logos/psg.png",
-      "team2": "Marseille",
-      "team2_logo": "https://example.com/logos/marseille.png",
-      "m3u_url": "https://example.com/streams/match5.m3u8"
-    },
-    {
-      "team1": "Chelsea",
-      "team1_logo": "https://example.com/logos/chelsea.png",
-      "team2": "Arsenal",
-      "team2_logo": "https://example.com/logos/arsenal.png",
-      "m3u_url": "https://example.com/streams/match6.m3u8"
-    },
-    {
-      "team1": "Inter Milan",
-      "team1_logo": "https://example.com/logos/inter.png",
-      "team2": "Napoli",
-      "team2_logo": "https://example.com/logos/napoli.png",
-      "m3u_url": "https://example.com/streams/match7.m3u8"
-    }
+      "team1": "Pays-Bas",
+      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/6708.png",
+      "team2": "Malte",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/8495.png",
+      "m3u_url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/XcuNghlwvbZrB_0LXE56k-d2zZx4DaaJZV2JUYd7FQVUTs_lgQKB5WPbVx2CAS9nG6VCU0urYxTFC-uI416Xg6qdDlthatRqmD8xndxW1FVgwhnphRU77AeRXGeTduJWdiCLAgW9egsMLHJT90nIZnTrFgGAlcRm-qtmjX_xsfA/hls/index.m3u8"
   ]
 }
