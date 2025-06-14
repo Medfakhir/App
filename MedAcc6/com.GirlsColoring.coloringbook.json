@@ -1,7 +1,7 @@
 {
   "ads_manager": {
     "mintegral": {
-      "showAds": true, 
+      "showAds": false, 
       "app_id": "365708",
       "app_key": "e9754cffc9d2438360c6112213401ed9", 
       "banner": {
