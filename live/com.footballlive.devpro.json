@@ -1,11 +1,11 @@
 {
   "matches": [
     {
-      "team1": "Finlande",
+      "team1": "test1",
       "team1_logo": "hhttps://lsm-static-prod.livescore.com/high/enet/7871.png",
-      "team2": "Pologne",
+      "team2": "test2",
       "team2_logo": "https://lsm-static-prod.livescore.com/high/teambadge/poland-2024.png",
-      "m3u_url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/wizwH2mr9tFZgdPNydLzSJwF6pjhZZ60gwmQ4r7hnJ7Z-QC7B65dzg2P-DwSzPNoci2ucwTB3hnBSLkMSE4wuqcrzZLvHS4GG2fIJk3OwHZ47StpYzfpgwSWstvgnAZwBE7dutMIEKPpaR13foB0GT9H9_eVWeuqRXSh-BFyK8km9ttpSQfePIGOu390k7v9/hls/index.m3u8"
+      "m3u_url": "https://dca-co-live-gcr.gcdn.co/184610xhzvxo818r4cv1mm1i5r/all/avc_hls_global-eng_257_128000=128000.m3u8"
     },
     {
       "team1": "Pays-Bas",
