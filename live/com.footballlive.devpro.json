@@ -17,6 +17,6 @@
   ],
   "ads_image": "https://i.rtings.com/assets/products/F4tpqi9i/samsung-ks8500/ads-medium.jpg",
   "ads_video": "https://videos.pexels.com/video-files/3959693/3959693-uhd_2732_1440_25fps.mp4",
-  "show_live_match_button": false,
+  "show_live_match_button": true,
   "show_ads": false
 }
