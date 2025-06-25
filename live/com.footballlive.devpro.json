@@ -20,7 +20,7 @@
   "show_live_match_button": false,
   "show_ads": true,
   "mintegral_ads": {
-    "showAds": true,
+    "enabled": true,
     "MintegralAppID": "280268",
     "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
     "MintegralInterstitialUnitID": "3259830",
