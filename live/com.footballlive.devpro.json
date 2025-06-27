@@ -18,9 +18,9 @@
   "ads_image": "https://i.rtings.com/assets/products/F4tpqi9i/samsung-ks8500/ads-medium.jpg",
   "ads_video": "https://videos.pexels.com/video-files/3959693/3959693-uhd_2732_1440_25fps.mp4",
   "show_live_match_button": false,
-  "show_ads": true,
+  "show_ads": false,
   "mintegral_ads": {
-    "enabled": true,
+    "enabled": false,
     "MintegralAppID": "280268",
     "MintegralAppKey": "7c22942b749fe6a6e361b675e96b3ee9",
     "MintegralInterstitialUnitID": "3259830",
