@@ -1,23 +1,23 @@
 {
   "matches": [
     {
-      "team1": "test1",
-      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/7871.png",
-      "team2": "test2",
-      "team2_logo": "https://lsm-static-prod.livescore.com/high/teambadge/poland-2024.png",
-      "m3u_url": "https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/4EM3plqWx5Ssx_k4ACR4TQ9tQn5m6PXq0qGYKb5fhjb0JESXe0mtaqygdOsTf6oVvsLHF_OOGacGQDdOhRA6-Zq7Buva3MV-JVZtx_WvGvYP9xrE-4b5qzeZbl-8SWJSx3BcuKoQmT6mCuzXpCXlO-brM-5JTLUAoNplbGLiO9Ma8UUC0uOiBr4KcOFLbqvg/hls/index.m3u8"
+      "team1": "Botafogo FR",
+      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/8517.png",
+      "team2": "Palmeiras",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/10283.png",
+      "m3u_url": "https://m4.merichunidya.com:999/hls/do4.m3u8?md5=yzquSOYFXVr9LNsOTwKeyQ&expires=1751139706"
     },
     {
-      "team1": "Pays-Bas",
-      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/6708.png",
-      "team2": "Malte",
-      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/8495.png",
-      "m3u_url": "https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/XcuNghlwvbZrB_0LXE56k-d2zZx4DaaJZV2JUYd7FQVUTs_lgQKB5WPbVx2CAS9nG6VCU0urYxTFC-uI416Xg6qdDlthatRqmD8xndxW1FVgwhnphRU77AeRXGeTduJWdiCLAgW9egsMLHJT90nIZnTrFgGAlcRm-qtmjX_xsfA/hls/index.m3u8"
+      "team1": "Benfica",
+      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/9772.png",
+      "team2": "Chelsea",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/8455.png",
+      "m3u_url": ""
     }
   ],
   "ads_image": "https://i.rtings.com/assets/products/F4tpqi9i/samsung-ks8500/ads-medium.jpg",
   "ads_video": "https://videos.pexels.com/video-files/3959693/3959693-uhd_2732_1440_25fps.mp4",
-  "show_live_match_button": false,
+  "show_live_match_button": true,
   "show_ads": false,
   "mintegral_ads": {
     "enabled": false,
