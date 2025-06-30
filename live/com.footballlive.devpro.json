@@ -2,16 +2,16 @@
   "matches": [
     {
       "team1": "Paris Saint-Germain",
-      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/9847.png",
-      "team2": "Inter Miami CF",
-      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/960720.png",
+      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/6713.png",
+      "team2": "Costa Rica",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/6705.png",
       "m3u_url": "https://e3aqv697gfkmhnpb48tcjr.cdnshave.net:8443/hls/m4vi31opfdn06q4.m3u8?s=6Kbumc3x6wSCC_cxiefLNw&e=1751241868"
     },
     {
-      "team1": "Flamengo",
-      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/9770.png",
-      "team2": "Bayern Munich",
-      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/9823.png",
+      "team1": "Inter",
+      "team1_logo": "https://lsm-static-prod.livescore.com/high/enet/8636.png",
+      "team2": "Fluminense",
+      "team2_logo": "https://lsm-static-prod.livescore.com/high/enet/9863.png",
       "m3u_url": "https://e3aqv697gfkmhnpb48tcjr.cdnshave.net:8443/hls/m4vi31opfdn06q4.m3u8?s=6Kbumc3x6wSCC_cxiefLNw&e=1751241868"
     }
   ],
