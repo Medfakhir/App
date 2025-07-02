@@ -15,10 +15,10 @@
       "m3u_url": "https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1M2UxZjNmZDBjZTI1LWZiOGItZjZkNC1lZjhlLTJkYWVlNzc2/master.m3u8?auth_key=1751396187-2151d3bcda5a9d8c8aab41367010aaf7-00000000000000000000000000000000-af2bf3491634cb3a5fd482e6b7d0133d"
     }
   ],
-  "ads_image": "https://i.rtings.com/assets/products/F4tpqi9i/samsung-ks8500/ads-medium.jpg",
-  "ads_video": "https://videos.pexels.com/video-files/3959693/3959693-uhd_2732_1440_25fps.mp4",
+  "ads_image": "https://vxiptv.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-2-2025-01_09_59-AM.png",
+  "ads_video": "https://vxiptv.com/wp-content/uploads/2025/07/IPTV_Service_Promotion_Video_1.mp4",
   "show_live_match_button": true,
-  "show_ads": false,
+  "show_ads": true,
   "mintegral_ads": {
     "enabled": false,
     "MintegralAppID": "280268",
