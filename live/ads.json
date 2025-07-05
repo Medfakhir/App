@@ -12,7 +12,7 @@
 
   "ad_networks": {
     "mintegral": {
-      "enabled": true,
+      "enabled": false,
       "app_id": "280268",
       "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
 
