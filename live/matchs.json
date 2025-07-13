@@ -1,0 +1,30 @@
+[
+{
+"status": "LIVE",
+"competition_name": "UEFA Champions League",
+"home_team": {
+"name": "Paris Saint-Germain",
+"logo_url": "https://lsm-static-prod.livescore.com/high/enet/9847.png"
+},
+"away_team": {
+"name": "Real Madrid",
+"logo_url": "https://lsm-static-prod.livescore.com/high/enet/8633.png"
+},
+"streams": [
+"https://eastcaster.pro/hls/24SDAZFcsqnj24.m3u8?st=pz7aWgVYqammfh4LRyzOMICSP6gq6lUfTJKsXbr78uQ&e=1752097853"
+]
+},
+{
+"status": "UPCOMING",
+"competition_name": "Premier League",
+"home_team": {
+"name": "Manchester United",
+"logo_url": "https://lsm-static-prod.livescore.com/high/enet/10260.png"
+},
+"away_team": {
+"name": "Liverpool",
+"logo_url": "https://lsm-static-prod.livescore.com/high/enet/8650.png"
+},
+"streams": []
+}
+]
