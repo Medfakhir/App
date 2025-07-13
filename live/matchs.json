@@ -1,7 +1,7 @@
 [
   {
     "match_id": 101,
-    "status": "LIVE",
+    "status": "UPCOMING",
     "competition_name": "UEFA Champions League",
     "home_team": {
       "name": "Paris Saint-Germain",
@@ -17,7 +17,7 @@
   },
   {
     "match_id": 102,
-    "status": "UPCOMING",
+    "status": "Live",
     "competition_name": "Premier League",
     "home_team": {
       "name": "Manchester United",
@@ -27,6 +27,8 @@
       "name": "Liverpool",
       "logo_url": "https://lsm-static-prod.livescore.com/high/enet/8650.png"
     },
-    "streams": []
+    "streams": [
+      "https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1752443752-ef20e755b3aff751ca30fe704842e500-00000000000000000000000000000000-9108234a704502ada6f0a53a92c1c89f"
+    ]
   }
 ]
