@@ -1,15 +1,15 @@
 {
   "show_data":"true",
   "mintegral": {
-    "app_id":"298713",
-    "app_key":"a9a2860e74789d82cee8f6294b234ef6",
+    "app_id":"394400",
+    "app_key":"2af99fd7fca06c95e7e5f6686b5657ac",
     "banner": {
-      "placement_id": "1604369",
-      "unit_id": "3461347"
+      "placement_id": "2591219",
+      "unit_id": "4726219"
     },
     "interstitial": {
-      "placement_id": "1604371",
-      "unit_id": "3461349"
+      "placement_id": "2591221",
+      "unit_id": "4726221"
     },
     "native": {
       "placement_id": "1604373",
