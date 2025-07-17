@@ -1,8 +1,8 @@
 {
-"show_live_football_button": true,
+"show_live_football_button": false,
 "show_ads": true,
 "service_promo": {
-"enabled": true,
+"enabled": false,
 "banner_image_url": "https://img.freepik.com/psd-gratuit/modele-facebook-remise-ventes_23-2150047149.jpg",
 "interstitial_video_url": "https://videocdn.cdnpk.net/videos/4e949d1c-54e7-4b7e-b057-f8bc24fbce86/horizontal/previews/clear/large.mp4?token=exp=1752718442~hmac=59ca19b723bad0adaf9783435153c25cbb338d0a231f37620527a5b7a735c6d1"
 },
