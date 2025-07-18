@@ -18,17 +18,17 @@
   {
     "match_id": 102,
     "status": "Live",
-    "competition_name": "Premier League",
+    "competition_name": "AFL Premiership",
     "home_team": {
-      "name": "Manchester United",
-      "logo_url": "https://lsm-static-prod.livescore.com/high/enet/10260.png"
+      "name": "Western Bulldogs",
+      "logo_url": "https://media-sport.b-cdn.net/afl/teams/2.png"
     },
     "away_team": {
-      "name": "Liverpool",
-      "logo_url": "https://lsm-static-prod.livescore.com/high/enet/8650.png"
+      "name": "Brisbane Lions",
+      "logo_url": "hhttps://media-sport.b-cdn.net/afl/teams/16.png"
     },
     "streams": [
-      "https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1752443752-ef20e755b3aff751ca30fe704842e500-00000000000000000000000000000000-9108234a704502ada6f0a53a92c1c89f"
+      "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1752838632-260f4be2d68676ef70659536f595f3d1-00000000000000000000000000000000-68be6c93b78e34489814f4c138d12878"
     ]
   }
 ]
