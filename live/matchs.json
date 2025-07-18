@@ -1,35 +1,24 @@
 {
   "categories": [
     {
-      "id": "football",
-      "name": "Football",
-      "imageUrl": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+      "id": "Friendlies Clubs",
+      "name": "Friendlies Clubs",
+      "imageUrl": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
       "color": "#DC143C"
     },
     {
-      "id": "afl",
-      "name": "AFL",
-      "imageUrl": "https://cdn-icons-png.flaticon.com/512/1099/1099187.png",
-      "color": "#FF6B35"
-    },
-    {
-      "id": "basketball",
-      "name": "Basketball",
-      "imageUrl": "https://cdn-icons-png.flaticon.com/512/167/167739.png",
-      "color": "#FF8C00"
-    },
-    {
-      "id": "tennis",
-      "name": "Tennis",
-      "imageUrl": "https://cdn-icons-png.flaticon.com/512/2736/2736389.png",
-      "color": "#32CD32"
+      "id": "Africa Cup of Nations - Women",
+      "name": "Africa Cup of Nations - Women",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/WAFCON_%28logo%29.png",
+      "color": "#DC143C"
     }
+    
   ],
   "matches": [
     {
       "match_id": 101,
       "status": "UPCOMING",
-      "category_id": "football",
+      "category_id": "Friendlies Clubs",
       "competition_name": "UEFA Champions League",
       "home_team": {
         "name": "Bayern München II",
@@ -45,71 +34,23 @@
     },
     {
       "match_id": 102,
-      "status": "UPCOMING",
-      "category_id": "afl",
-      "competition_name": "AFL Premiership",
+      "status": "Live",
+      "category_id": "Africa Cup of Nations - Women",
+      "competition_name": "Africa Cup of Nations",
       "home_team": {
-        "name": "Western Bulldogs",
-        "logo_url": "https://media-sport.b-cdn.net/afl/teams/2.png"
+        "name": "Nigeria W",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/1730.png"
       },
       "away_team": {
-        "name": "Brisbane Lions",
-        "logo_url": "https://media-sport.b-cdn.net/afl/teams/16.png"
+        "name": "Zambia W",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/15584.png"
       },
       "streams": [
-        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1752838632-260f4be2d68676ef70659536f595f3d1-00000000000000000000000000000000-68be6c93b78e34489814f4c138d12878"
-      ]
-    },
-    {
-      "match_id": 103,
-      "status": "LIVE",
-      "category_id": "football",
-      "competition_name": "Premier League",
-      "home_team": {
-        "name": "Manchester United",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/33.png"
-      },
-      "away_team": {
-        "name": "Liverpool",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/40.png"
-      },
-      "streams": [
-        "https://sample-stream-url.com/premier-league/match103.m3u8"
-      ]
-    },
-    {
-      "match_id": 104,
-      "status": "UPCOMING",
-      "category_id": "basketball",
-      "competition_name": "NBA",
-      "home_team": {
-        "name": "Los Angeles Lakers",
-        "logo_url": "https://media-sport.b-cdn.net/basketball/teams/lakers.png"
-      },
-      "away_team": {
-        "name": "Boston Celtics",
-        "logo_url": "https://media-sport.b-cdn.net/basketball/teams/celtics.png"
-      },
-      "streams": [
-        "https://sample-stream-url.com/nba/match104.m3u8"
-      ]
-    },
-    {
-      "match_id": 105,
-      "status": "LIVE",
-      "category_id": "tennis",
-      "competition_name": "Wimbledon",
-      "home_team": {
-        "name": "Novak Djokovic",
-        "logo_url": "https://media-sport.b-cdn.net/tennis/players/djokovic.png"
-      },
-      "away_team": {
-        "name": "Rafael Nadal",
-        "logo_url": "https://media-sport.b-cdn.net/tennis/players/nadal.png"
-      },
-      "streams": [
-        "https://sample-stream-url.com/tennis/match105.m3u8"
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8?auth_key=1752853982-e2060d5847aa316ff94d98a516c8f8ff-00000000000000000000000000000000-93abc7e6c3026de66a6850d8865ffdfc"
       ]
     }
+   
+ 
+   
   ]
 }
