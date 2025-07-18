@@ -1,34 +1,115 @@
-[
-  {
-    "match_id": 101,
-    "status": "UPCOMING",
-    "competition_name": "UEFA Champions League",
-    "home_team": {
-      "name": "Bayern München II",
-      "logo_url": "https://media-sport.b-cdn.net/football/teams/4674.png"
-    },
-    "away_team": {
-      "name": "SG Sonnenhof Grossaspach",
-      "logo_url": "https://media-sport.b-cdn.net/football/teams/1317.png"
-    },
-    "streams": [
-      "https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1752443752-ef20e755b3aff751ca30fe704842e500-00000000000000000000000000000000-9108234a704502ada6f0a53a92c1c89f"
+{
+    "categories": [
+        {
+            "id": "football",
+            "name": "Football",
+            "imageUrl": "https://cdn-icons-png.flaticon.com/512/53/53283.png",
+            "color": "#DC143C"
+        },
+        {
+            "id": "afl",
+            "name": "AFL",
+            "imageUrl": "https://cdn-icons-png.flaticon.com/512/1099/1099187.png",
+            "color": "#FF6B35"
+        },
+        {
+            "id": "basketball",
+            "name": "Basketball",
+            "imageUrl": "https://cdn-icons-png.flaticon.com/512/167/167739.png",
+            "color": "#FF8C00"
+        },
+        {
+            "id": "tennis",
+            "name": "Tennis",
+            "imageUrl": "https://cdn-icons-png.flaticon.com/512/2736/2736389.png",
+            "color": "#32CD32"
+        }
+    ],
+    "matches": [
+        {
+            "match_id": 101,
+            "status": "UPCOMING",
+            "category_id": "football",
+            "competition_name": "UEFA Champions League",
+            "home_team": {
+                "name": "Bayern München II",
+                "logo_url": "https://media-sport.b-cdn.net/football/teams/4674.png"
+            },
+            "away_team": {
+                "name": "SG Sonnenhof Grossaspach",
+                "logo_url": "https://media-sport.b-cdn.net/football/teams/1317.png"
+            },
+            "streams": [
+                "https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1752443752-ef20e755b3aff751ca30fe704842e500-00000000000000000000000000000000-9108234a704502ada6f0a53a92c1c89f"
+            ]
+        },
+        {
+            "match_id": 102,
+            "status": "LIVE",
+            "category_id": "afl",
+            "competition_name": "AFL Premiership",
+            "home_team": {
+                "name": "Western Bulldogs",
+                "logo_url": "https://media-sport.b-cdn.net/afl/teams/2.png"
+            },
+            "away_team": {
+                "name": "Brisbane Lions",
+                "logo_url": "https://media-sport.b-cdn.net/afl/teams/16.png"
+            },
+            "streams": [
+                "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1752838632-260f4be2d68676ef70659536f595f3d1-00000000000000000000000000000000-68be6c93b78e34489814f4c138d12878"
+            ]
+        },
+        {
+            "match_id": 103,
+            "status": "LIVE",
+            "category_id": "football",
+            "competition_name": "Premier League",
+            "home_team": {
+                "name": "Manchester United",
+                "logo_url": "https://media-sport.b-cdn.net/football/teams/33.png"
+            },
+            "away_team": {
+                "name": "Liverpool",
+                "logo_url": "https://media-sport.b-cdn.net/football/teams/40.png"
+            },
+            "streams": [
+                "https://sample-stream-url.com/premier-league/match103.m3u8"
+            ]
+        },
+        {
+            "match_id": 104,
+            "status": "UPCOMING",
+            "category_id": "basketball",
+            "competition_name": "NBA",
+            "home_team": {
+                "name": "Los Angeles Lakers",
+                "logo_url": "https://media-sport.b-cdn.net/basketball/teams/lakers.png"
+            },
+            "away_team": {
+                "name": "Boston Celtics",
+                "logo_url": "https://media-sport.b-cdn.net/basketball/teams/celtics.png"
+            },
+            "streams": [
+                "https://sample-stream-url.com/nba/match104.m3u8"
+            ]
+        },
+        {
+            "match_id": 105,
+            "status": "LIVE",
+            "category_id": "tennis",
+            "competition_name": "Wimbledon",
+            "home_team": {
+                "name": "Novak Djokovic",
+                "logo_url": "https://media-sport.b-cdn.net/tennis/players/djokovic.png"
+            },
+            "away_team": {
+                "name": "Rafael Nadal",
+                "logo_url": "https://media-sport.b-cdn.net/tennis/players/nadal.png"
+            },
+            "streams": [
+                "https://sample-stream-url.com/tennis/match105.m3u8"
+            ]
+        }
     ]
-  },
-  {
-    "match_id": 102,
-    "status": "Live",
-    "competition_name": "AFL Premiership",
-    "home_team": {
-      "name": "Western Bulldogs",
-      "logo_url": "https://media-sport.b-cdn.net/afl/teams/2.png"
-    },
-    "away_team": {
-      "name": "Brisbane Lions",
-      "logo_url": "hhttps://media-sport.b-cdn.net/afl/teams/16.png"
-    },
-    "streams": [
-      "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1752838632-260f4be2d68676ef70659536f595f3d1-00000000000000000000000000000000-68be6c93b78e34489814f4c138d12878"
-    ]
-  }
-]
+}
