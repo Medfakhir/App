@@ -2,7 +2,7 @@
     "show_live_football_button": true,
     "show_ads": false,
     "service_promo": {
-        "enabled": false,
+        "enabled": true,
         "banner_image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8251604/cover_image/regular_1708x683/Untitled-b91bdf8e478c7dbafa86afd20f3b519a.png",
         "interstitial_video_url": "https://videocdn.cdnpk.net/videos/882d8140-3e6e-58b7-b75b-a48b0c70252a/horizontal/previews/clear/large.mp4?token=exp=1752807451~hmac=6e4a1a4085561ca2a1a48b6328e78cc5889c82b1549e2839eec9b7567fd25db7"
     },
