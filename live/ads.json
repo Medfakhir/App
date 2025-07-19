@@ -8,7 +8,7 @@
     },
     "providers": {
         "mintegral": {
-            "enabled": false,
+            "enabled": true,
             "app_id": "144002",
             "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
             "interstitial_placement_id": "290653",
