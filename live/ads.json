@@ -1,14 +1,14 @@
 {
-    "show_live_football_button": true,
-    "show_ads": true,
+    "show_live_football_button": false,
+    "show_ads": false,
     "service_promo": {
-        "enabled": true,
+        "enabled": false,
         "banner_image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8251604/cover_image/regular_1708x683/Untitled-b91bdf8e478c7dbafa86afd20f3b519a.png",
         "interstitial_video_url": "https://vxiptv.com/wp-content/uploads/2025/07/IPTV_Service_Promotion_Video_1.mp4"
     },
     "providers": {
         "mintegral": {
-            "enabled": true,
+            "enabled": false,
             "app_id": "144002",
             "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
             "interstitial_placement_id": "290653",
