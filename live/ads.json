@@ -1,5 +1,5 @@
 {
-    "show_live_football_button": false,
+    "show_live_football_button": true,
     "show_ads": true,
     "service_promo": {
         "enabled": true,
