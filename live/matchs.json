@@ -22,7 +22,7 @@
   "matches": [
     {
       "match_id": 202,
-      "status": "NS",
+      "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
       "home_team": {
@@ -37,7 +37,7 @@
     },
     {
       "match_id": 203,
-      "status": "NS",
+      "status": "upcoming",
       "category_id": "UEFA Champions League",
       "competition_name": "UEFA Champions League",
       "home_team": {
@@ -52,7 +52,7 @@
     },
     {
       "match_id": 204,
-      "status": "NS",
+      "status": "upcoming",
       "category_id": "UEFA Champions League",
       "competition_name": "UEFA Champions League",
       "home_team": {
@@ -67,7 +67,7 @@
     },
     {
       "match_id": 205,
-      "status": "NS",
+      "status": "upcoming",
       "category_id": "UEFA Championship - Women",
       "competition_name": "UEFA Championship - Women",
       "home_team": {
