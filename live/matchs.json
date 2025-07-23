@@ -56,7 +56,7 @@
     },
     {
       "match_id": 303,
-      "status": "UPCOMING",
+      "status": "live",
       "category_id": "UEFA Champions League",
       "competition_name": "UEFA Champions League",
       "home_team": {
@@ -67,7 +67,7 @@
         "name": "Qarabag",
         "logo_url": "https://media-sport.b-cdn.net/football/teams/877.png"
       },
-      "streams": []
+      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753300314-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-49fb0261e83f8290b2d5f81946ee2e42"]
     },
     {
       "match_id": 304,
