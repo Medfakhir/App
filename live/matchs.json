@@ -7,50 +7,78 @@
       "color": "#DC143C"
     },
     {
-      "id": "Africa Cup of Nations - Women",
-      "name": "Africa Cup of Nations - Women",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/58/WAFCON_%28logo%29.png",
-      "color": "#DC143C"
+      "id": "UEFA Champions League",
+      "name": "UEFA Champions League",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg",
+      "color": "#1B396A"
+    },
+    {
+      "id": "UEFA Championship - Women",
+      "name": "UEFA Championship - Women",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/UEFA_Women%27s_Euro_2022_logo.svg",
+      "color": "#FF69B4"
     }
-    
   ],
   "matches": [
     {
-      "match_id": 101,
-      "status": "UPCOMING",
+      "match_id": 202,
+      "status": "NS",
       "category_id": "Friendlies Clubs",
-      "competition_name": "UEFA Champions League",
+      "competition_name": "Friendlies Clubs",
       "home_team": {
-        "name": "Bayern München II",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/4674.png"
+        "name": "Fenerbahce",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/3384.png"
       },
       "away_team": {
-        "name": "SG Sonnenhof Grossaspach",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/1317.png"
+        "name": "Al-Ittihad FC",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/1581.png"
       },
-      "streams": [
-        "https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1752443752-ef20e755b3aff751ca30fe704842e500-00000000000000000000000000000000-9108234a704502ada6f0a53a92c1c89f"
-      ]
+      "streams": [""]
     },
     {
-      "match_id": 102,
-      "status": "Live",
-      "category_id": "Africa Cup of Nations - Women",
-      "competition_name": "Africa Cup of Nations",
+      "match_id": 203,
+      "status": "NS",
+      "category_id": "UEFA Champions League",
+      "competition_name": "UEFA Champions League",
       "home_team": {
-        "name": "Nigeria W",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/1730.png"
+        "name": "Brann",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/3886.png"
       },
       "away_team": {
-        "name": "Zambia W",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/15584.png"
+        "name": "Red Bull Salzburg",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/8175.png"
       },
-      "streams": [
-        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8?auth_key=1752853982-e2060d5847aa316ff94d98a516c8f8ff-00000000000000000000000000000000-93abc7e6c3026de66a6850d8865ffdfc"
-      ]
+      "streams": [""]
+    },
+    {
+      "match_id": 204,
+      "status": "NS",
+      "category_id": "UEFA Champions League",
+      "competition_name": "UEFA Champions League",
+      "home_team": {
+        "name": "Shelbourne",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/1923.png"
+      },
+      "away_team": {
+        "name": "Qarabag",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/877.png"
+      },
+      "streams": [""]
+    },
+    {
+      "match_id": 205,
+      "status": "NS",
+      "category_id": "UEFA Championship - Women",
+      "competition_name": "UEFA Championship - Women",
+      "home_team": {
+        "name": "Germany W",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/4582.png"
+      },
+      "away_team": {
+        "name": "Spain W",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/4619.png"
+      },
+      "streams": [""]
     }
-   
- 
-   
   ]
 }
