@@ -21,23 +21,8 @@
   ],
   "matches": [
     {
-      "match_id": 202,
-      "status": "live",
-      "category_id": "Friendlies Clubs",
-      "competition_name": "Friendlies Clubs",
-      "home_team": {
-        "name": "Fenerbahce",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/3384.png"
-      },
-      "away_team": {
-        "name": "Al-Ittihad FC",
-        "logo_url": "https://media-sport.b-cdn.net/football/teams/1581.png"
-      },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8?auth_key=1753290453-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-226d79b187d6521eb8b723bf2bb7c501"]
-    },
-    {
-      "match_id": 203,
-      "status": "upcoming",
+      "match_id": 301,
+      "status": "Live",
       "category_id": "UEFA Champions League",
       "competition_name": "UEFA Champions League",
       "home_team": {
@@ -48,11 +33,30 @@
         "name": "Red Bull Salzburg",
         "logo_url": "https://media-sport.b-cdn.net/football/teams/8175.png"
       },
-      "streams": [""]
+      "streams": [
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753294245-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-430d344336eb8d7391aa1a516523d6fd"
+      ]
     },
     {
-      "match_id": 204,
-      "status": "upcoming",
+      "match_id": 302,
+      "status": "Live",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": {
+        "name": "Valencia",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/95.png"
+      },
+      "away_team": {
+        "name": "Leganes",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/4127.png"
+      },
+      "streams": [
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8?auth_key=1753294304-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-e7f77f8956cb7c823c1466c1586ca1b8"
+      ]
+    },
+    {
+      "match_id": 303,
+      "status": "UPCOMING",
       "category_id": "UEFA Champions League",
       "competition_name": "UEFA Champions League",
       "home_team": {
@@ -63,11 +67,11 @@
         "name": "Qarabag",
         "logo_url": "https://media-sport.b-cdn.net/football/teams/877.png"
       },
-      "streams": [""]
+      "streams": []
     },
     {
-      "match_id": 205,
-      "status": "upcoming",
+      "match_id": 304,
+      "status": "Live",
       "category_id": "UEFA Championship - Women",
       "competition_name": "UEFA Championship - Women",
       "home_team": {
@@ -78,7 +82,43 @@
         "name": "Spain W",
         "logo_url": "https://media-sport.b-cdn.net/football/teams/4619.png"
       },
-      "streams": [""]
+      "streams": [
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2E1MWVlYmZkMWYwLWYzODktMWUyNC0xYzZkLTY2MjU0NmEw/master.m3u8?auth_key=1753294334-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-77f1853c29fe6a29b3800d68d01054a6"
+      ]
+    },
+    {
+      "match_id": 305,
+      "status": "Live",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": {
+        "name": "Fenerbahce",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/3384.png"
+      },
+      "away_team": {
+        "name": "Al-Ittihad FC",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/1581.png"
+      },
+      "streams": [
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8?auth_key=1753294357-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-13ef5006c8bf87ecf30f704c00b81cd2"
+      ]
+    },
+    {
+      "match_id": 306,
+      "status": "Live",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": {
+        "name": "Galatasaray",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/3382.png"
+      },
+      "away_team": {
+        "name": "Cagliari",
+        "logo_url": "https://media-sport.b-cdn.net/football/teams/483.png"
+      },
+      "streams": [
+        "https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753294275-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-d228c9725590feb76d3cff5e07776882"
+      ]
     }
   ]
 }
