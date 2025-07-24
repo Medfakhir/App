@@ -73,12 +73,12 @@
     },
     {
       "match_id": 406,
-      "status": "UPCOMING",
+      "status": "live",
       "category_id": "UEFA Europa Conference League",
       "competition_name": "UEFA Europa Conference League",
       "home_team": { "name": "Aris", "logo_url": "" },
       "away_team": { "name": "Puskas Academy", "logo_url": "" },
-      "streams": []
+      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTRjMWFlZGU1NDMzLWQxNjgtZThhNC1iNDE3LTM0Y2E2ZDEz/master.m3u8?auth_key=1753373048-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-0f1b5b81f71d5401ace1079dca4ecf2c"]
     },
     {
       "match_id": 407,
@@ -109,7 +109,7 @@
     },
     {
       "match_id": 410,
-      "status": "UPCOMING",
+      "status": "live",
       "category_id": "UEFA Europa Conference League",
       "competition_name": "UEFA Europa Conference League",
       "home_team": { "name": "Oleksandria", "logo_url": "" },
@@ -118,7 +118,7 @@
     },
     {
       "match_id": 411,
-      "status": "UPCOMING",
+      "status": "live",
       "category_id": "UEFA Europa Conference League",
       "competition_name": "UEFA Europa Conference League",
       "home_team": { "name": "NK Varazdin", "logo_url": "" },
