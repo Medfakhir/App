@@ -1,79 +1,136 @@
 {
   "categories": [
     {
-      "id": "Liga Profesional Argentina",
-      "name": "Liga Profesional Argentina",
+      "id": "Ekstraklasa",
+      "name": "Ekstraklasa",
       "imageUrl": "",
-      "color": "#006400"
+      "color": "#DC143C"
     },
     {
       "id": "Friendlies Clubs",
       "name": "Friendlies Clubs",
       "imageUrl": "",
-      "color": "#DC143C"
+      "color": "#008000"
+    },
+    {
+      "id": "Primera A",
+      "name": "Primera A",
+      "imageUrl": "",
+      "color": "#FFD700"
+    },
+    {
+      "id": "Liga Profesional Argentina",
+      "name": "Liga Profesional Argentina",
+      "imageUrl": "",
+      "color": "#4682B4"
     },
     {
       "id": "Superliga",
       "name": "Superliga",
       "imageUrl": "",
-      "color": "#0033AA"
+      "color": "#FFA500"
+    },
+    {
+      "id": "Copa America Femenina",
+      "name": "Copa America Femenina",
+      "imageUrl": "",
+      "color": "#FF69B4"
     },
     {
       "id": "Jupiler Pro League",
       "name": "Jupiler Pro League",
       "imageUrl": "",
-      "color": "#E60000"
-    },
-    {
-      "id": "Ekstraklasa",
-      "name": "Ekstraklasa",
-      "imageUrl": "",
-      "color": "#0055A4"
+      "color": "#800000"
     },
     {
       "id": "Super League",
       "name": "Super League",
       "imageUrl": "",
-      "color": "#800080"
+      "color": "#8A2BE2"
     },
     {
       "id": "Premier Division",
       "name": "Premier Division",
       "imageUrl": "",
-      "color": "#FFA500"
+      "color": "#1E90FF"
     },
     {
       "id": "Africa Cup of Nations - Women",
       "name": "Africa Cup of Nations - Women",
       "imageUrl": "",
-      "color": "#228B22"
+      "color": "#DA70D6"
     },
     {
       "id": "Canadian Premier League",
       "name": "Canadian Premier League",
       "imageUrl": "",
-      "color": "#1E90FF"
+      "color": "#00CED1"
     },
     {
       "id": "USL League One Cup",
       "name": "USL League One Cup",
       "imageUrl": "",
-      "color": "#A9A9A9"
+      "color": "#2F4F4F"
     }
   ],
   "matches": [
     {
-      "match_id": 501,
-      "status": "LIVE",
-      "category_id": "Superliga",
-      "competition_name": "Superliga",
-      "home_team": { "name": "Deportivo Cali", "logo_url": "" },
-      "away_team": { "name": "Fortaleza FC", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDZjYTYzMTc1ZGJhLWI1M2ItNGU3NC05NGYyLTJkNzYxNmI1/master.m3u8?auth_key=1753411767-d062f602b99f042713d71c01c649466a-00000000000000000000000000000000-70f09d709f8efdb06023fd05574e2023"]
+      "match_id": 701,
+      "status": "live",
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Cracovia Krakow", "logo_url": "" },
+      "away_team": { "name": "Nieciecza", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753456647-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-466d6f6d2d0d58f5cb957e4059c03e4c"]
     },
     {
-      "match_id": 502,
-      "status": "UPCOMING",
+      "match_id": 702,
+      "status": "live",
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Arka Gdynia", "logo_url": "" },
+      "away_team": { "name": "Radomiak Radom", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753456680-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-7d19af781df315702e921c6c7e641002"]
+    },
+    {
+      "match_id": 703,
+      "status": "upcoming",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": { "name": "Sporting CP", "logo_url": "" },
+      "away_team": { "name": "Villarreal", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 704,
+      "status": "upcoming",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": { "name": "Cordoba", "logo_url": "" },
+      "away_team": { "name": "Real Betis", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 705,
+      "status": "ended",
+      "category_id": "Primera A",
+      "competition_name": "Primera A",
+      "home_team": { "name": "Independiente Medellin", "logo_url": "" },
+      "away_team": { "name": "Envigado", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 706,
+      "status": "ended",
+      "category_id": "Primera A",
+      "competition_name": "Primera A",
+      "home_team": { "name": "Deportivo Cali", "logo_url": "" },
+      "away_team": { "name": "Fortaleza FC", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 707,
+      "status": "upcoming",
       "category_id": "Liga Profesional Argentina",
       "competition_name": "Liga Profesional Argentina",
       "home_team": { "name": "Sarmiento Junin", "logo_url": "" },
@@ -81,26 +138,35 @@
       "streams": []
     },
     {
-      "match_id": 503,
-      "status": "UPCOMING",
-      "category_id": "Friendlies Clubs",
-      "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Triglav", "logo_url": "" },
-      "away_team": { "name": "HNK Gorica", "logo_url": "" },
+      "match_id": 708,
+      "status": "upcoming",
+      "category_id": "Superliga",
+      "competition_name": "Superliga",
+      "home_team": { "name": "Aarhus", "logo_url": "" },
+      "away_team": { "name": "Randers FC", "logo_url": "" },
       "streams": []
     },
     {
-      "match_id": 504,
-      "status": "UPCOMING",
-      "category_id": "Friendlies Clubs",
-      "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Yokohama FC", "logo_url": "" },
-      "away_team": { "name": "Real Sociedad", "logo_url": "" },
+      "match_id": 709,
+      "status": "ended",
+      "category_id": "Copa America Femenina",
+      "competition_name": "Copa America Femenina",
+      "home_team": { "name": "Chile W", "logo_url": "" },
+      "away_team": { "name": "Uruguay W", "logo_url": "" },
       "streams": []
     },
     {
-      "match_id": 505,
-      "status": "UPCOMING",
+      "match_id": 710,
+      "status": "ended",
+      "category_id": "Copa America Femenina",
+      "competition_name": "Copa America Femenina",
+      "home_team": { "name": "Ecuador W", "logo_url": "" },
+      "away_team": { "name": "Argentina W", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 711,
+      "status": "upcoming",
       "category_id": "Jupiler Pro League",
       "competition_name": "Jupiler Pro League",
       "home_team": { "name": "Antwerp", "logo_url": "" },
@@ -108,26 +174,8 @@
       "streams": []
     },
     {
-      "match_id": 506,
-      "status": "UPCOMING",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Cracovia Krakow", "logo_url": "" },
-      "away_team": { "name": "Nieciecza", "logo_url": "" },
-      "streams": []
-    },
-    {
-      "match_id": 507,
-      "status": "UPCOMING",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Arka Gdynia", "logo_url": "" },
-      "away_team": { "name": "Radomiak Radom", "logo_url": "" },
-      "streams": []
-    },
-    {
-      "match_id": 508,
-      "status": "UPCOMING",
+      "match_id": 712,
+      "status": "upcoming",
       "category_id": "Super League",
       "competition_name": "Super League",
       "home_team": { "name": "FC Zurich", "logo_url": "" },
@@ -135,8 +183,8 @@
       "streams": []
     },
     {
-      "match_id": 509,
-      "status": "UPCOMING",
+      "match_id": 713,
+      "status": "upcoming",
       "category_id": "Premier Division",
       "competition_name": "Premier Division",
       "home_team": { "name": "Cork City", "logo_url": "" },
@@ -144,8 +192,26 @@
       "streams": []
     },
     {
-      "match_id": 510,
-      "status": "UPCOMING",
+      "match_id": 714,
+      "status": "upcoming",
+      "category_id": "Premier Division",
+      "competition_name": "Premier Division",
+      "home_team": { "name": "Derry City", "logo_url": "" },
+      "away_team": { "name": "Bohemians", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 715,
+      "status": "upcoming",
+      "category_id": "Premier Division",
+      "competition_name": "Premier Division",
+      "home_team": { "name": "Galway United", "logo_url": "" },
+      "away_team": { "name": "Waterford", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 716,
+      "status": "upcoming",
       "category_id": "Africa Cup of Nations - Women",
       "competition_name": "Africa Cup of Nations - Women",
       "home_team": { "name": "Ghana W", "logo_url": "" },
@@ -153,8 +219,8 @@
       "streams": []
     },
     {
-      "match_id": 511,
-      "status": "UPCOMING",
+      "match_id": 717,
+      "status": "upcoming",
       "category_id": "Canadian Premier League",
       "competition_name": "Canadian Premier League",
       "home_team": { "name": "HFX Wanderers FC", "logo_url": "" },
@@ -162,8 +228,8 @@
       "streams": []
     },
     {
-      "match_id": 512,
-      "status": "UPCOMING",
+      "match_id": 718,
+      "status": "upcoming",
       "category_id": "USL League One Cup",
       "competition_name": "USL League One Cup",
       "home_team": { "name": "Portland Hearts of Pine", "logo_url": "" },
