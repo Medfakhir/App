@@ -1,147 +1,174 @@
 {
   "categories": [
     {
-      "id": "UEFA Europa League",
-      "name": "UEFA Europa League",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/UEFA_Europa_League_Logo_2021.svg",
-      "color": "#FF8000"
-    },
-    {
-      "id": "UEFA Europa Conference League",
-      "name": "UEFA Europa Conference League",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/UEFA_Europa_Conference_League.svg",
-      "color": "#50C878"
+      "id": "Liga Profesional Argentina",
+      "name": "Liga Profesional Argentina",
+      "imageUrl": "",
+      "color": "#006400"
     },
     {
       "id": "Friendlies Clubs",
       "name": "Friendlies Clubs",
-      "imageUrl": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
+      "imageUrl": "",
       "color": "#DC143C"
     },
     {
-      "id": "CONMEBOL Sudamericana",
-      "name": "CONMEBOL Sudamericana",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/05/Copa_Sudamericana_logo.png",
-      "color": "#004080"
+      "id": "Superliga",
+      "name": "Superliga",
+      "imageUrl": "",
+      "color": "#0033AA"
+    },
+    {
+      "id": "Jupiler Pro League",
+      "name": "Jupiler Pro League",
+      "imageUrl": "",
+      "color": "#E60000"
+    },
+    {
+      "id": "Ekstraklasa",
+      "name": "Ekstraklasa",
+      "imageUrl": "",
+      "color": "#0055A4"
+    },
+    {
+      "id": "Super League",
+      "name": "Super League",
+      "imageUrl": "",
+      "color": "#800080"
+    },
+    {
+      "id": "Premier Division",
+      "name": "Premier Division",
+      "imageUrl": "",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Africa Cup of Nations - Women",
+      "name": "Africa Cup of Nations - Women",
+      "imageUrl": "",
+      "color": "#228B22"
+    },
+    {
+      "id": "Canadian Premier League",
+      "name": "Canadian Premier League",
+      "imageUrl": "",
+      "color": "#1E90FF"
+    },
+    {
+      "id": "USL League One Cup",
+      "name": "USL League One Cup",
+      "imageUrl": "",
+      "color": "#A9A9A9"
     }
   ],
   "matches": [
     {
-      "match_id": 401,
-      "status": "live",
-      "category_id": "UEFA Europa League",
-      "competition_name": "UEFA Europa League",
-      "home_team": { "name": "Sheriff Tiraspol", "logo_url": "" },
-      "away_team": { "name": "Utrecht", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8?auth_key=1753372156-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-7484e6956f8242844898417aa734c5a8"]
-    },
-    {
-      "match_id": 402,
-      "status": "live",
-      "category_id": "UEFA Europa League",
-      "competition_name": "UEFA Europa League",
-      "home_team": { "name": "Baník Ostrava", "logo_url": "" },
-      "away_team": { "name": "Legia Warszawa", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NzkwM2Y1YzdhN2YxLTMwNjktMjM0NC0xZThlLWVhYmVmM2Y5/master.m3u8?auth_key=1753372274-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-174d7968475f504c46a87aebae495b84"]
-    },
-    {
-      "match_id": 403,
-      "status": "live",
-      "category_id": "UEFA Europa League",
-      "competition_name": "UEFA Europa League",
-      "home_team": { "name": "Levski Sofia", "logo_url": "" },
-      "away_team": { "name": "SC Braga", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8?auth_key=1753372303-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-5d57b1d4789fa43aec29d197c70cd493"]
-    },
-    {
-      "match_id": 404,
+      "match_id": 501,
       "status": "LIVE",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Atlètic Club d'Escaldes", "logo_url": "" },
-      "away_team": { "name": "Dinamo Tirana", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8?auth_key=1753372323-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-4f0e8171ac81ab4d9bfe1d990491599e"]
+      "category_id": "Superliga",
+      "competition_name": "Superliga",
+      "home_team": { "name": "Deportivo Cali", "logo_url": "" },
+      "away_team": { "name": "Fortaleza FC", "logo_url": "" },
+      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NDZjYTYzMTc1ZGJhLWI1M2ItNGU3NC05NGYyLTJkNzYxNmI1/master.m3u8?auth_key=1753411767-d062f602b99f042713d71c01c649466a-00000000000000000000000000000000-70f09d709f8efdb06023fd05574e2023"]
     },
     {
-      "match_id": 405,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Aktobe", "logo_url": "" },
-      "away_team": { "name": "Sparta Praha", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NzU1MWViMjM4ZmFkLTA2NTgtYmYwNC0xNmRmLTE3ODdkMTMy/master.m3u8?auth_key=1753372393-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-4563b10f20bdccdca3add1d7a9f90643"]
+      "match_id": 502,
+      "status": "UPCOMING",
+      "category_id": "Liga Profesional Argentina",
+      "competition_name": "Liga Profesional Argentina",
+      "home_team": { "name": "Sarmiento Junin", "logo_url": "" },
+      "away_team": { "name": "Lanus", "logo_url": "" },
+      "streams": []
     },
     {
-      "match_id": 406,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Aris", "logo_url": "" },
-      "away_team": { "name": "Puskas Academy", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTRjMWFlZGU1NDMzLWQxNjgtZThhNC1iNDE3LTM0Y2E2ZDEz/master.m3u8?auth_key=1753373048-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-0f1b5b81f71d5401ace1079dca4ecf2c"]
-    },
-    {
-      "match_id": 407,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Arda Kardzhali", "logo_url": "" },
-      "away_team": { "name": "HJK helsinki", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTRjMWFlZGU1NDMzLWQxNjgtZThhNC1iNDE3LTM0Y2E2ZDEz/master.m3u8?auth_key=1753372414-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-27c01cb9e0a436d490dd4c3f13b68380"]
-    },
-    {
-      "match_id": 408,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Ilves", "logo_url": "" },
-      "away_team": { "name": "AZ Alkmaar", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YzE0MjhkYWUyYThlLTdiYzktNTRlNC1jZWMyLTQ0ZDY4OGMz/master.m3u8?auth_key=1753372572-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-60c7f687fb8b3477a5703f14b93d74c6"]
-    },
-    {
-      "match_id": 409,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Ararat-Armenia", "logo_url": "" },
-      "away_team": { "name": "Universitatea Cluj", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YTc2NDgwOTY5NWI1LTUyY2ItNmI4NC0zZmIzLTY0MDFhNWE0/master.m3u8?auth_key=1753372549-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-1286b0a4271962c263ab1e3494de6a37"]
-    },
-    {
-      "match_id": 410,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "Oleksandria", "logo_url": "" },
-      "away_team": { "name": "FK Partizan", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MzU3ZGRmMTcyNzYwLTM3NjgtNmIyNC00NDdmLWVhM2FmMTU2/master.m3u8?auth_key=1753372604-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-3780b2e89d9e430e59329219b1d87cc3"]
-    },
-    {
-      "match_id": 411,
-      "status": "live",
-      "category_id": "UEFA Europa Conference League",
-      "competition_name": "UEFA Europa Conference League",
-      "home_team": { "name": "NK Varazdin", "logo_url": "" },
-      "away_team": { "name": "Santa Clara", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8?auth_key=1753372639-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-e4db0fb8a5b74f990b0f242f0dbfc6a6"]
-    },
-    {
-      "match_id": 412,
-      "status": "live",
+      "match_id": 503,
+      "status": "UPCOMING",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Ajax", "logo_url": "" },
-      "away_team": { "name": "Celtic", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8?auth_key=1753372681-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-3a5b488731a834bae90cf0c91f6996ab"]
+      "home_team": { "name": "Triglav", "logo_url": "" },
+      "away_team": { "name": "HNK Gorica", "logo_url": "" },
+      "streams": []
     },
     {
-      "match_id": 413,
-      "status": "live",
-      "category_id": "CONMEBOL Sudamericana",
-      "competition_name": "CONMEBOL Sudamericana",
-      "home_team": { "name": "Club Guarani", "logo_url": "" },
-      "away_team": { "name": "Universidad de Chile", "logo_url": "" },
-      "streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8?auth_key=1753372713-72caa9912643ddd0b56235bcc574dc80-00000000000000000000000000000000-c5f805ba65e59de794ec9926ee1db489"]
+      "match_id": 504,
+      "status": "UPCOMING",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": { "name": "Yokohama FC", "logo_url": "" },
+      "away_team": { "name": "Real Sociedad", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 505,
+      "status": "UPCOMING",
+      "category_id": "Jupiler Pro League",
+      "competition_name": "Jupiler Pro League",
+      "home_team": { "name": "Antwerp", "logo_url": "" },
+      "away_team": { "name": "Union St. Gilloise", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 506,
+      "status": "UPCOMING",
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Cracovia Krakow", "logo_url": "" },
+      "away_team": { "name": "Nieciecza", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 507,
+      "status": "UPCOMING",
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Arka Gdynia", "logo_url": "" },
+      "away_team": { "name": "Radomiak Radom", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 508,
+      "status": "UPCOMING",
+      "category_id": "Super League",
+      "competition_name": "Super League",
+      "home_team": { "name": "FC Zurich", "logo_url": "" },
+      "away_team": { "name": "FC Sion", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 509,
+      "status": "UPCOMING",
+      "category_id": "Premier Division",
+      "competition_name": "Premier Division",
+      "home_team": { "name": "Cork City", "logo_url": "" },
+      "away_team": { "name": "Sligo Rovers", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 510,
+      "status": "UPCOMING",
+      "category_id": "Africa Cup of Nations - Women",
+      "competition_name": "Africa Cup of Nations - Women",
+      "home_team": { "name": "Ghana W", "logo_url": "" },
+      "away_team": { "name": "South Africa W", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 511,
+      "status": "UPCOMING",
+      "category_id": "Canadian Premier League",
+      "competition_name": "Canadian Premier League",
+      "home_team": { "name": "HFX Wanderers FC", "logo_url": "" },
+      "away_team": { "name": "Forge", "logo_url": "" },
+      "streams": []
+    },
+    {
+      "match_id": 512,
+      "status": "UPCOMING",
+      "category_id": "USL League One Cup",
+      "competition_name": "USL League One Cup",
+      "home_team": { "name": "Portland Hearts of Pine", "logo_url": "" },
+      "away_team": { "name": "Pittsburgh Riverhounds", "logo_url": "" },
+      "streams": []
     }
   ]
 }
