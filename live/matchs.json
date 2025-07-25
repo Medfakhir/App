@@ -94,21 +94,21 @@
     },
     {
       "match_id": 703,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
       "home_team": { "name": "Sporting CP", "logo_url": "" },
       "away_team": { "name": "Villarreal", "logo_url": "" },
-      "streams": []
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8?auth_key=1753457125-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-3cda23a0eaa6733b74184c09fb68f604"]
     },
     {
       "match_id": 704,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
       "home_team": { "name": "Cordoba", "logo_url": "" },
       "away_team": { "name": "Real Betis", "logo_url": "" },
-      "streams": []
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753457235-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-e9ef4c0f39c9064030333ae8228f81d3"]
     },
     {
       "match_id": 705,
@@ -139,12 +139,12 @@
     },
     {
       "match_id": 708,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Superliga",
       "competition_name": "Superliga",
       "home_team": { "name": "Aarhus", "logo_url": "" },
       "away_team": { "name": "Randers FC", "logo_url": "" },
-      "streams": []
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2E0NGQxZTM4ODhkLTFkY2EtMGI0NC1mNmNmLWIxNzQwNmM1/master.m3u8?auth_key=1753457258-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-7300535e8da45dd43c9dd474de22365a"]
     },
     {
       "match_id": 709,
@@ -211,12 +211,12 @@
     },
     {
       "match_id": 716,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Africa Cup of Nations - Women",
       "competition_name": "Africa Cup of Nations - Women",
       "home_team": { "name": "Ghana W", "logo_url": "" },
       "away_team": { "name": "South Africa W", "logo_url": "" },
-      "streams": []
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8?auth_key=1753457306-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-e650c7b35517bc56dc7874c015cd2ceb"]
     },
     {
       "match_id": 717,
