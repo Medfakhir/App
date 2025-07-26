@@ -64,7 +64,7 @@
     },
     {
       "match_id": 805,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Superliga",
       "competition_name": "Superliga",
       "home_team": { "name": "FC Copenhagen", "logo_url": "" },
@@ -73,7 +73,7 @@
     },
     {
       "match_id": 806,
-      "status": "upcoming",
+      "status": "live",
       "category_id": "Ekstraklasa",
       "competition_name": "Ekstraklasa",
       "home_team": { "name": "Pogon Szczecin", "logo_url": "" },
