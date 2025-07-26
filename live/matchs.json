@@ -13,228 +13,90 @@
       "color": "#008000"
     },
     {
-      "id": "Primera A",
-      "name": "Primera A",
-      "imageUrl": "",
-      "color": "#FFD700"
-    },
-    {
-      "id": "Liga Profesional Argentina",
-      "name": "Liga Profesional Argentina",
-      "imageUrl": "",
-      "color": "#4682B4"
-    },
-    {
       "id": "Superliga",
       "name": "Superliga",
       "imageUrl": "",
       "color": "#FFA500"
     },
     {
-      "id": "Copa America Femenina",
-      "name": "Copa America Femenina",
+      "id": "Allsvenskan",
+      "name": "Allsvenskan",
       "imageUrl": "",
-      "color": "#FF69B4"
-    },
-    {
-      "id": "Jupiler Pro League",
-      "name": "Jupiler Pro League",
-      "imageUrl": "",
-      "color": "#800000"
-    },
-    {
-      "id": "Super League",
-      "name": "Super League",
-      "imageUrl": "",
-      "color": "#8A2BE2"
-    },
-    {
-      "id": "Premier Division",
-      "name": "Premier Division",
-      "imageUrl": "",
-      "color": "#1E90FF"
-    },
-    {
-      "id": "Africa Cup of Nations - Women",
-      "name": "Africa Cup of Nations - Women",
-      "imageUrl": "",
-      "color": "#DA70D6"
-    },
-    {
-      "id": "Canadian Premier League",
-      "name": "Canadian Premier League",
-      "imageUrl": "",
-      "color": "#00CED1"
-    },
-    {
-      "id": "USL League One Cup",
-      "name": "USL League One Cup",
-      "imageUrl": "",
-      "color": "#2F4F4F"
+      "color": "#4169E1"
     }
   ],
   "matches": [
     {
-      "match_id": 701,
-      "status": "live",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Cracovia Krakow", "logo_url": "" },
-      "away_team": { "name": "Nieciecza", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753456647-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-466d6f6d2d0d58f5cb957e4059c03e4c"]
-    },
-    {
-      "match_id": 702,
-      "status": "live",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Arka Gdynia", "logo_url": "" },
-      "away_team": { "name": "Radomiak Radom", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753456680-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-7d19af781df315702e921c6c7e641002"]
-    },
-    {
-      "match_id": 703,
+      "match_id": 801,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Sporting CP", "logo_url": "" },
-      "away_team": { "name": "Villarreal", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZjVlNWIwODJkNzc2LTNjZTgtMTNmNC1mM2Q3LWUzMjU5OTNh/master.m3u8?auth_key=1753457125-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-3cda23a0eaa6733b74184c09fb68f604"]
+      "home_team": { "name": "Hamburger SV", "logo_url": "" },
+      "away_team": { "name": "Lyon", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8?auth_key=1753542966-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-30b9659b08b956d726f9ccaf8f34d89b"]
     },
     {
-      "match_id": 704,
+      "match_id": 802,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Cordoba", "logo_url": "" },
-      "away_team": { "name": "Real Betis", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753457235-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-e9ef4c0f39c9064030333ae8228f81d3"]
+      "home_team": { "name": "Luton", "logo_url": "" },
+      "away_team": { "name": "Tottenham", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8?auth_key=1753542984-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-baaafc6c07e10494e17b1b410b11f914"]
     },
     {
-      "match_id": 705,
-      "status": "ended",
-      "category_id": "Primera A",
-      "competition_name": "Primera A",
-      "home_team": { "name": "Independiente Medellin", "logo_url": "" },
-      "away_team": { "name": "Envigado", "logo_url": "" },
-      "streams": []
+      "match_id": 803,
+      "status": "live",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": { "name": "Stoke City", "logo_url": "" },
+      "away_team": { "name": "Wolves", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8?auth_key=1753543007-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-47c3eb3c1a0e305e569b7a1b6133120e"]
     },
     {
-      "match_id": 706,
-      "status": "ended",
-      "category_id": "Primera A",
-      "competition_name": "Primera A",
-      "home_team": { "name": "Deportivo Cali", "logo_url": "" },
-      "away_team": { "name": "Fortaleza FC", "logo_url": "" },
-      "streams": []
+      "match_id": 804,
+      "status": "live",
+      "category_id": "Friendlies Clubs",
+      "competition_name": "Friendlies Clubs",
+      "home_team": { "name": "FC Schalke 04", "logo_url": "" },
+      "away_team": { "name": "Sevilla", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753543025-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-d822d31173556ba61ff30ba49038dffa"]
     },
     {
-      "match_id": 707,
+      "match_id": 805,
       "status": "upcoming",
-      "category_id": "Liga Profesional Argentina",
-      "competition_name": "Liga Profesional Argentina",
-      "home_team": { "name": "Sarmiento Junin", "logo_url": "" },
-      "away_team": { "name": "Lanus", "logo_url": "" },
-      "streams": []
-    },
-    {
-      "match_id": 708,
-      "status": "live",
       "category_id": "Superliga",
       "competition_name": "Superliga",
-      "home_team": { "name": "Aarhus", "logo_url": "" },
-      "away_team": { "name": "Randers FC", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1N2E0NGQxZTM4ODhkLTFkY2EtMGI0NC1mNmNmLWIxNzQwNmM1/master.m3u8?auth_key=1753457258-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-7300535e8da45dd43c9dd474de22365a"]
+      "home_team": { "name": "FC Copenhagen", "logo_url": "" },
+      "away_team": { "name": "Vejle", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzkwM2Y1YzdhN2YxLTMwNjktMjM0NC0xZThlLWVhYmVmM2Y5/master.m3u8?auth_key=1753543042-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-14453a0cb38c0ea0d7881010314a24b1"]
     },
     {
-      "match_id": 709,
-      "status": "ended",
-      "category_id": "Copa America Femenina",
-      "competition_name": "Copa America Femenina",
-      "home_team": { "name": "Chile W", "logo_url": "" },
-      "away_team": { "name": "Uruguay W", "logo_url": "" },
-      "streams": []
-    },
-    {
-      "match_id": 710,
-      "status": "ended",
-      "category_id": "Copa America Femenina",
-      "competition_name": "Copa America Femenina",
-      "home_team": { "name": "Ecuador W", "logo_url": "" },
-      "away_team": { "name": "Argentina W", "logo_url": "" },
-      "streams": []
-    },
-    {
-      "match_id": 711,
-      "status": "live",
-      "category_id": "Jupiler Pro League",
-      "competition_name": "Jupiler Pro League",
-      "home_team": { "name": "Antwerp", "logo_url": "" },
-      "away_team": { "name": "Union St. Gilloise", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzkwM2Y1YzdhN2YxLTMwNjktMjM0NC0xZThlLWVhYmVmM2Y5/master.m3u8?auth_key=1753468871-f2efb971dfc0843fd2945ecdae4e05e9-00000000000000000000000000000000-89290002d072f63b87c00825a5aefa6f"]
-    },
-    {
-      "match_id": 712,
-      "status": "live",
-      "category_id": "Super League",
-      "competition_name": "Super League",
-      "home_team": { "name": "FC Zurich", "logo_url": "" },
-      "away_team": { "name": "FC Sion", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTgwODFiMzBlYjNjLTcyMzktZTUwNC0wOWRkLTY3NzE3NWUy/master.m3u8?auth_key=1753468937-f2efb971dfc0843fd2945ecdae4e05e9-00000000000000000000000000000000-838ee6333381991eaefa87ba1670a115"]
-    },
-    {
-      "match_id": 713,
-      "status": "live",
-      "category_id": "Premier Division",
-      "competition_name": "Premier Division",
-      "home_team": { "name": "Cork City", "logo_url": "" },
-      "away_team": { "name": "Sligo Rovers", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1Y2E5Y2QzNWU5NDgxLTc3ZmItZTJiNC1iYTEwLTNlMDNkZWIx/master.m3u8?auth_key=1753469099-f2efb971dfc0843fd2945ecdae4e05e9-00000000000000000000000000000000-9d0ec01b2ac1640912930e7e5e91216d"]
-    },
-    {
-      "match_id": 714,
-      "status": "live",
-      "category_id": "Premier Division",
-      "competition_name": "Premier Division",
-      "home_team": { "name": "Derry City", "logo_url": "" },
-      "away_team": { "name": "Bohemians", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTY0ZGEyOTRkMGQyLWM0NWEtNzJmNC02YTkzLTNhZDM1YzQ2/master.m3u8?auth_key=1753469008-f2efb971dfc0843fd2945ecdae4e05e9-00000000000000000000000000000000-0dd9599f88275fda6c432cb3215e4ae6"]
-    },
-    {
-      "match_id": 715,
-      "status": "live",
-      "category_id": "Premier Division",
-      "competition_name": "Premier Division",
-      "home_team": { "name": "Galway United", "logo_url": "" },
-      "away_team": { "name": "Waterford", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NmFiYWMzNGFhMWNmLWFjY2EtNGFiNC04ZWNkLTdjMWIwNDhh/master.m3u8?auth_key=1753468981-f2efb971dfc0843fd2945ecdae4e05e9-00000000000000000000000000000000-363314d69c84c6760cfa1d2f6bfb0b58"]
-    },
-    {
-      "match_id": 716,
-      "status": "live",
-      "category_id": "Africa Cup of Nations - Women",
-      "competition_name": "Africa Cup of Nations - Women",
-      "home_team": { "name": "Ghana W", "logo_url": "" },
-      "away_team": { "name": "South Africa W", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8?auth_key=1753457306-67c12e48b7b413a0d95574790e041707-00000000000000000000000000000000-e650c7b35517bc56dc7874c015cd2ceb"]
-    },
-    {
-      "match_id": 717,
+      "match_id": 806,
       "status": "upcoming",
-      "category_id": "Canadian Premier League",
-      "competition_name": "Canadian Premier League",
-      "home_team": { "name": "HFX Wanderers FC", "logo_url": "" },
-      "away_team": { "name": "Forge", "logo_url": "" },
-      "streams": []
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Pogon Szczecin", "logo_url": "" },
+      "away_team": { "name": "Motor Lublin", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753543056-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-e5f9517039bac4ef64497b6b3efe4bb1"]
     },
     {
-      "match_id": 718,
+      "match_id": 807,
       "status": "upcoming",
-      "category_id": "USL League One Cup",
-      "competition_name": "USL League One Cup",
-      "home_team": { "name": "Portland Hearts of Pine", "logo_url": "" },
-      "away_team": { "name": "Pittsburgh Riverhounds", "logo_url": "" },
-      "streams": []
+      "category_id": "Ekstraklasa",
+      "competition_name": "Ekstraklasa",
+      "home_team": { "name": "Lechia Gdansk", "logo_url": "" },
+      "away_team": { "name": "Lech Poznan", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753543081-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-078b68081e39a13f0a46e5653cd0ff44"]
+    },
+    {
+      "match_id": 808,
+      "status": "upcoming",
+      "category_id": "Allsvenskan",
+      "competition_name": "Allsvenskan",
+      "home_team": { "name": "Degerfors IF", "logo_url": "" },
+      "away_team": { "name": "IFK Norrkoping", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8?auth_key=1753543094-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-ab5c61e766e6a06fee3e1f01b09e2e88"]
     }
   ]
 }
