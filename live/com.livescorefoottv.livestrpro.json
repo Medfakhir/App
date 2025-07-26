@@ -3,7 +3,7 @@
     "show_ads": true,
     "service_promo": {
         "enabled": true,
-        "banner_image_url": "hhttps://vxiptv.com/wp-content/uploads/2025/07/5769484875010677067-scaled.webp",
+        "banner_image_url": "https://vxiptv.com/wp-content/uploads/2025/07/5769484875010677067-scaled.webp",
         "interstitial_video_url": "https://vxiptv.com/wp-content/uploads/2025/07/iptvss.mp4"
     },
     "providers": {
