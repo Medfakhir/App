@@ -3,25 +3,25 @@
     {
       "id": "Ekstraklasa",
       "name": "Ekstraklasa",
-      "imageUrl": "",
+      "imageUrl": "https://europeanleagues.com/wp-content/uploads/ESA_pion_mono.jpg",
       "color": "#DC143C"
     },
     {
       "id": "Friendlies Clubs",
       "name": "Friendlies Clubs",
-      "imageUrl": "",
+      "imageUrl": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
       "color": "#008000"
     },
     {
       "id": "Superliga",
       "name": "Superliga",
-      "imageUrl": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_SuperLiga_Roumanie.svg/1200px-Logo_SuperLiga_Roumanie.svg.png",
       "color": "#FFA500"
     },
     {
       "id": "Allsvenskan",
       "name": "Allsvenskan",
-      "imageUrl": "",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Allsvenskan_2025.svg/1200px-Logo_Allsvenskan_2025.svg.png",
       "color": "#4169E1"
     }
   ],
