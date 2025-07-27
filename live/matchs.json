@@ -1,10 +1,10 @@
 {
   "categories": [
     {
-      "id": "Ekstraklasa",
-      "name": "Ekstraklasa",
-      "imageUrl": "https://europeanleagues.com/wp-content/uploads/ESA_pion_mono.jpg",
-      "color": "#DC143C"
+      "id": "Premier League - Summer Series",
+      "name": "Premier League - Summer Series",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
+      "color": "#38003C"
     },
     {
       "id": "Friendlies Clubs",
@@ -13,90 +13,96 @@
       "color": "#008000"
     },
     {
-      "id": "Superliga",
-      "name": "Superliga",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_SuperLiga_Roumanie.svg/1200px-Logo_SuperLiga_Roumanie.svg.png",
-      "color": "#FFA500"
+      "id": "Major League Soccer",
+      "name": "Major League Soccer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Major_League_Soccer_logo.svg",
+      "color": "#DA291C"
     },
     {
-      "id": "Allsvenskan",
-      "name": "Allsvenskan",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Allsvenskan_2025.svg/1200px-Logo_Allsvenskan_2025.svg.png",
-      "color": "#4169E1"
+      "id": "UEFA Championship - Women",
+      "name": "UEFA Championship - Women",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/UEFA_logo.svg",
+      "color": "#005BAC"
+    },
+    {
+      "id": "Serie A",
+      "name": "Serie A",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Serie_A_logo_%282019%29.svg",
+      "color": "#008FD5"
     }
   ],
   "matches": [
     {
-      "match_id": 801,
+      "match_id": 901,
+      "status": "live",
+      "category_id": "Premier League - Summer Series",
+      "competition_name": "Premier League - Summer Series",
+      "home_team": { "name": "Manchester United", "logo_url": "" },
+      "away_team": { "name": "West Ham", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
+    },
+    {
+      "match_id": 902,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Hamburger SV", "logo_url": "" },
-      "away_team": { "name": "Lyon", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDg4OGIzN2Y1YzVlLWU3ZWEtNTVmNC02Mzg1LTY5NzY0NjUz/master.m3u8?auth_key=1753542966-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-30b9659b08b956d726f9ccaf8f34d89b"]
+      "home_team": { "name": "Eintracht Frankfurt", "logo_url": "" },
+      "away_team": { "name": "Aston Villa", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YTc2NDgwOTY5NWI1LTUyY2ItNmI4NC0zZmIzLTY0MDFhNWE0/master.m3u8?auth_key=1753577200-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-3a5b04609fab2af51972630d499e6227"]
     },
     {
-      "match_id": 802,
+      "match_id": 903,
+      "status": "live",
+      "category_id": "Major League Soccer",
+      "competition_name": "Major League Soccer",
+      "home_team": { "name": "Inter Miami", "logo_url": "" },
+      "away_team": { "name": "FC Cincinnati", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8?auth_key=1753577226-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-a281537af3d510e7f5fc7f399b4438b1"]
+    },
+    {
+      "match_id": 904,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Luton", "logo_url": "" },
-      "away_team": { "name": "Tottenham", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmU1MGM2ZDM3MzUzLTE0MjktODk3NC1lMDU5LWYxYTU2YTlh/master.m3u8?auth_key=1753542984-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-baaafc6c07e10494e17b1b410b11f914"]
+      "home_team": { "name": "Vissel Kobe", "logo_url": "" },
+      "away_team": { "name": "Barcelona", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
     },
     {
-      "match_id": 803,
+      "match_id": 905,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "Stoke City", "logo_url": "" },
-      "away_team": { "name": "Wolves", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NjE4YmE5OWMzMmQxLTEwNjktZTM0NC1jOTY0LTNlOGM3ZDU2/master.m3u8?auth_key=1753543007-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-47c3eb3c1a0e305e569b7a1b6133120e"]
+      "home_team": { "name": "Arsenal", "logo_url": "" },
+      "away_team": { "name": "Newcastle", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
     },
     {
-      "match_id": 804,
+      "match_id": 906,
       "status": "live",
       "category_id": "Friendlies Clubs",
       "competition_name": "Friendlies Clubs",
-      "home_team": { "name": "FC Schalke 04", "logo_url": "" },
-      "away_team": { "name": "Sevilla", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753543025-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-d822d31173556ba61ff30ba49038dffa"]
+      "home_team": { "name": "VfL Bochum", "logo_url": "" },
+      "away_team": { "name": "Bayer Leverkusen", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
     },
     {
-      "match_id": 805,
+      "match_id": 907,
       "status": "live",
-      "category_id": "Superliga",
-      "competition_name": "Superliga",
-      "home_team": { "name": "FC Copenhagen", "logo_url": "" },
-      "away_team": { "name": "Vejle", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzkwM2Y1YzdhN2YxLTMwNjktMjM0NC0xZThlLWVhYmVmM2Y5/master.m3u8?auth_key=1753543042-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-14453a0cb38c0ea0d7881010314a24b1"]
+      "category_id": "UEFA Championship - Women",
+      "competition_name": "UEFA Championship - Women",
+      "home_team": { "name": "England W", "logo_url": "" },
+      "away_team": { "name": "Spain W", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
     },
     {
-      "match_id": 806,
+      "match_id": 908,
       "status": "live",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Pogon Szczecin", "logo_url": "" },
-      "away_team": { "name": "Motor Lublin", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753543056-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-e5f9517039bac4ef64497b6b3efe4bb1"]
-    },
-    {
-      "match_id": 807,
-      "status": "upcoming",
-      "category_id": "Ekstraklasa",
-      "competition_name": "Ekstraklasa",
-      "home_team": { "name": "Lechia Gdansk", "logo_url": "" },
-      "away_team": { "name": "Lech Poznan", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753543081-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-078b68081e39a13f0a46e5653cd0ff44"]
-    },
-    {
-      "match_id": 808,
-      "status": "upcoming",
-      "category_id": "Allsvenskan",
-      "competition_name": "Allsvenskan",
-      "home_team": { "name": "Degerfors IF", "logo_url": "" },
-      "away_team": { "name": "IFK Norrkoping", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8?auth_key=1753543094-ffbb9965298ad299105865be991e9e9e-00000000000000000000000000000000-ab5c61e766e6a06fee3e1f01b09e2e88"]
+      "category_id": "Serie A",
+      "competition_name": "Serie A",
+      "home_team": { "name": "Sao Paulo", "logo_url": "" },
+      "away_team": { "name": "Fluminense", "logo_url": "" },
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
     }
   ]
 }
