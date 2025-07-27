@@ -1,0 +1,20 @@
+{
+    "show_live_football_button": false,
+    "show_ads": false,
+    "service_promo": {
+        "enabled": false,
+        "banner_image_url": "https://vxiptv.com/wp-content/uploads/2025/07/5769484875010677067-scaled.webp",
+        "interstitial_video_url": "https://vxiptv.com/wp-content/uploads/2025/07/iptvss.mp4"
+    },
+    "providers": {
+        "mintegral": {
+            "enabled": false,
+            "app_id": "144002",
+            "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
+            "interstitial_placement_id": "290653",
+            "interstitial_unit_id": "462374",
+            "reward_placement_id": "290651",
+            "reward_unit_id": "462372"
+        }
+    }
+}
