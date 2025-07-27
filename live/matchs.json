@@ -84,7 +84,7 @@
       "competition_name": "Friendlies Clubs",
       "home_team": { "name": "VfL Bochum", "logo_url": "" },
       "away_team": { "name": "Bayer Leverkusen", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDRlNDgwZWI3ZmMzLTNjMDgtMmQ5NC1mNTk4LTFlYzRhZmE3/master.m3u8?auth_key=1753628302-0139c8df77bf411ec08bcd511c3d4f85-00000000000000000000000000000000-797d9b9b04af7cff0e2231b346eb1e37"]
     },
     {
       "match_id": 907,
@@ -93,7 +93,7 @@
       "competition_name": "UEFA Championship - Women",
       "home_team": { "name": "England W", "logo_url": "" },
       "away_team": { "name": "Spain W", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1M2E1MWVlYmZkMWYwLWYzODktMWUyNC0xYzZkLTY2MjU0NmEw/master.m3u8?auth_key=1753628477-0139c8df77bf411ec08bcd511c3d4f85-00000000000000000000000000000000-4bb71d8d8f578adc6c2c51e70c57eb3a"]
     },
     {
       "match_id": 908,
@@ -102,7 +102,7 @@
       "competition_name": "Serie A",
       "home_team": { "name": "Sao Paulo", "logo_url": "" },
       "away_team": { "name": "Fluminense", "logo_url": "" },
-      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1753577177-217c07f2bdb151f0c5d35ceaf67bd835-00000000000000000000000000000000-e564f68feb3e80d2244cdf5af8e7c810"]
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OWQ3NWJhMGY1Zjk0LTU3OTgtNmUwNC05YTkyLWM1M2IyNzA0/master.m3u8?auth_key=1753628519-0139c8df77bf411ec08bcd511c3d4f85-00000000000000000000000000000000-71c938b5e7a1cfc85ee5b0ce2fb41549"]
     }
   ]
 }
