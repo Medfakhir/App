@@ -16,7 +16,7 @@
       "competition_name": "live tv free",
       "home_team": { "name": "USA", "logo_url": "" },
       "away_team": { "name": "TV", "logo_url": "" },
-      "streams": ["5700dc18ea22fca59f20ecdbbee8a-00000000000000000000000000000000-a6218097275bfb259af71fda5cb389aa"]
+      "streams": ["https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8?auth_key=1753800362-9a58271176742c6242751d31b3ec7065-00000000000000000000000000000000-82dec5e30a03cfc602f60ef59a0cf173"]
     },
   ]
 }
