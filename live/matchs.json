@@ -1,124 +1,29 @@
 {
-"categories": [
-{
-"id": "Friendlies Clubs",
-"name": "Friendlies Clubs",
-"imageUrl": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
-"color": "#DC143C"
-},
-{
-"id": "UEFA Champions League",
-"name": "UEFA Champions League",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg",
-"color": "#1B396A"
-},
-{
-"id": "UEFA Championship - Women",
-"name": "UEFA Championship - Women",
-"imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/UEFA_Women%27s_Euro_2022_logo.svg",
-"color": "#FF69B4"
-}
-],
-"matches": [
-{
-"match_id": 301,
-"status": "Live",
-"category_id": "UEFA Champions League",
-"competition_name": "UEFA Champions League",
-"home_team": {
-"name": "Brann",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/3886.png"
-},
-"away_team": {
-"name": "Red Bull Salzburg",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/8175.png"
-},
-"streams": [
-"https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753294245-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-430d344336eb8d7391aa1a516523d6fd"
-]
-},
-{
-"match_id": 302,
-"status": "Live",
-"category_id": "Friendlies Clubs",
-"competition_name": "Friendlies Clubs",
-"home_team": {
-"name": "Valencia",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/95.png"
-},
-"away_team": {
-"name": "Leganes",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/4127.png"
-},
-"streams": [
-"https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1Y2JlNWExNDYwZjQ5LWIxZjgtZDg4NC1kMGJhLTVlN2I1YWQ5/master.m3u8?auth_key=1753294304-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-e7f77f8956cb7c823c1466c1586ca1b8"
-]
-},
-{
-"match_id": 303,
-"status": "live",
-"category_id": "UEFA Champions League",
-"competition_name": "UEFA Champions League",
-"home_team": {
-"name": "Shelbourne",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/1923.png"
-},
-"away_team": {
-"name": "Qarabag",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/877.png"
-},
-"streams": ["https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1MmUzYTQyNGU1ODZjLWE1OTgtYTE5NC1lYzcwLWEyZmVjOTk1/master.m3u8?auth_key=1753300314-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-49fb0261e83f8290b2d5f81946ee2e42"]
-},
-{
-"match_id": 304,
-"status": "Live",
-"category_id": "UEFA Championship - Women",
-"competition_name": "UEFA Championship - Women",
-"home_team": {
-"name": "Germany W",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/4582.png"
-},
-"away_team": {
-"name": "Spain W",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/4619.png"
-},
-"streams": [
-"https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1M2E1MWVlYmZkMWYwLWYzODktMWUyNC0xYzZkLTY2MjU0NmEw/master.m3u8?auth_key=1753294334-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-77f1853c29fe6a29b3800d68d01054a6"
-]
-},
-{
-"match_id": 305,
-"status": "Live",
-"category_id": "Friendlies Clubs",
-"competition_name": "Friendlies Clubs",
-"home_team": {
-"name": "Fenerbahce",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/3384.png"
-},
-"away_team": {
-"name": "Al-Ittihad FC",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/1581.png"
-},
-"streams": [
-"https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1ZTkwZTUzMTE3MjEwLWYyM2ItNjE4NC04ZjVkLWNlY2ZiOWI2/master.m3u8?auth_key=1753294357-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-13ef5006c8bf87ecf30f704c00b81cd2"
-]
-},
-{
-"match_id": 306,
-"status": "Live",
-"category_id": "Friendlies Clubs",
-"competition_name": "Friendlies Clubs",
-"home_team": {
-"name": "Galatasaray",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/3382.png"
-},
-"away_team": {
-"name": "Cagliari",
-"logo_url": "https://media-sport.b-cdn.net/football/teams/483.png"
-},
-"streams": [
-"https://yfkijlwj1wm320xr.youaresoselfish.online/v3/director/VE1YmJkOTI5YjUyZjQ3LTVlMzgtYjBiNC03YTg2LTY2MGZlN2Y4/master.m3u8?auth_key=1753294275-05f73f2e1559840a3c3a463eb6ab6ca8-00000000000000000000000000000000-d228c9725590feb76d3cff5e07776882"
-]
-}
-]
+  "categories": [
+    {
+      "id": "Live TV",
+      "name": "Live TV",
+      "imageUrl": "https://cdn.footystats.org/img/competitions/international-club-friendlies-1.png",
+      "color": "#DC143C"
+    }
+  ],
+  "matches": [
+    {
+      "match_id": 301,
+      "status": "Live",
+      "category_id": "Live TV",
+      "competition_name": "Live TV",
+      "home_team": {
+        "name": "live",
+        "logo_url": ""
+      },
+      "away_team": {
+        "name": "live",
+        "logo_url": ""
+      },
+      "streams": [
+        "https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8?auth_key=1753802619-9a58271176742c6242751d31b3ec7065-00000000000000000000000000000000-7aff82f77de47d83d246681c20c48370"
+      ]
+    }
+  ]
 }
