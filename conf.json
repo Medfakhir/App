@@ -1,21 +1,21 @@
 {
-    "show_ads": true,
-    "ads_manager": {
-        "mintegral": {
-            "app_id": "144002",
-            "app_key": "7c22942de803fe2b409d2e8f0c7e7c8b",
-            "banner": {
-                "unit_id": "1436019",
-                "placement_id": "138259"
-            },
-            "interstitial": {
-                "unit_id": "1436020",
-                "placement_id": "138260"
-            },
-            "reward": {
-                "unit_id": "1436021",
-                "placement_id": "138261"
-            }
-        }
+  "show_ads": true,
+  "ads_manager": {
+    "mintegral": {
+      "app_id": "144002",
+      "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
+      "banner": {
+        "unit_id": "2677210",
+        "placement_id": "1010694"
+      },
+      "interstitial": {
+        "unit_id": "462374",
+        "placement_id": "290653"
+      },
+      "reward": {
+        "unit_id": "462372",
+        "placement_id": "290651"
+      }
     }
+  }
 }
