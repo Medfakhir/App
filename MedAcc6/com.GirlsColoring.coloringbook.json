@@ -9,12 +9,12 @@
         "placement_id": "1010694"
       },
       "interstitial": {
-        "unit_id": "2652669",
-        "placement_id": "4804698"
+        "unit_id": "4804698",
+        "placement_id": "2652669"
       },
       "reward": {
-        "unit_id": "2652671",
-        "placement_id": "290651"
+        "unit_id": "290651",
+        "placement_id": "2652671"
       }
     }
   }
