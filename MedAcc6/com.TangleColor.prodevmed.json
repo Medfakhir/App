@@ -1,5 +1,5 @@
 {
-  "show_ads": true,
+  "show_ads": false,
   "ads_manager": {
     "mintegral": {
       "app_id": "399470",
