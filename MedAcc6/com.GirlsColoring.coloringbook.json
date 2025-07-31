@@ -5,15 +5,15 @@
       "app_id": "399144",
       "app_key": "2af99fd7fca06c95e7e5f6686b5657ac",
       "banner": {
-        "unit_id": "2677210",
-        "placement_id": "1010694"
+        "unit_id": "26772103",
+        "placement_id": "10106943"
       },
       "interstitial": {
-        "unit_id": "4804698",
+        "unit_id": "4804696",
         "placement_id": "2652669"
       },
       "reward": {
-        "unit_id": "290651",
+        "unit_id": "4804698",
         "placement_id": "2652671"
       }
     }
