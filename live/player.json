@@ -1,5 +1,5 @@
 {
-  "server_input_visible": false,
+  "server_input_visible": true,
   "default_server": "http://your-server.com:8080",
   "app_title": "IPTV Player Pro",
   "force_dns": false
