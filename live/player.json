@@ -1,6 +1,6 @@
 {
   "server_input_visible": false,
-  "default_server": "http://your-server.com:8080",
+  "default_server": "http://pemakhcb.qastertv.xyz",
   "app_title": "IPTV Player Pro",
-  "force_dns": false
+  "force_dns": true
 }
