@@ -3,6 +3,6 @@
   "default_server": "http://xscuimra.qastertv.xyz",
   "app_title": "IPTV Player Pro",
   "force_dns": true
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ads_promotion_url": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg"
 }
