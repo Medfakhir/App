@@ -3,7 +3,7 @@
   "default_server": "http://qjgtqnfy.qastertv.xyz",
   "app_title": "IPTV Player Pro",
   "force_dns": true,
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ads_promotion_url": "https://videos.pexels.com/video-files/19132937/19132937-uhd_2560_1440_30fps.mp4",
   "ads_show_delay_ms": 2000
 }
