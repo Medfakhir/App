@@ -5,5 +5,5 @@
   "force_dns": true,
   "ads_enabled": true,
   "ads_promotion_url": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg",
-  "ads_show_delay_ms": 2500
+  "ads_show_delay_ms": 0
 }
