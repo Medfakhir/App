@@ -1,9 +1,9 @@
 {
-  "server_input_visible": true,
+  "server_input_visible": false,
   "default_server": "http://qjgtqnfy.qastertv.xyz",
   "app_title": "IPTV Player Pro",
   "force_dns": true,
   "ads_enabled": false,
   "ads_promotion_url": "https://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?fm=jpg",
-  "ads_show_delay_ms": 0
+  "ads_show_delay_ms": 2500
 }
