@@ -1,5 +1,5 @@
 {
-  "server_input_visible": true,
+  "server_input_visible": false,
   "default_server": "http://wivmnvhj.qastertv.xyz",
   "app_title": "IPTV Player Pro",
   "force_dns": true,
