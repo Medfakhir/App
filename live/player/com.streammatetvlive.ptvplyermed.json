@@ -12,7 +12,7 @@
   "banner_image_url": "https://img.freepik.com/premium-vector/digital-marketing-agency-horizontal-banner-template_553452-60.jpg?w=2000",
   "banner_link_url": "https://vxiptv.com/login",
 
-  "help_enabled": false,
+  "help_enabled": true,
   "help_text": "To get your IPTV login, scan the QR code or visit vxiptv.com/login",
   "help_button_url": "https://vxiptv.com/login"
 }
