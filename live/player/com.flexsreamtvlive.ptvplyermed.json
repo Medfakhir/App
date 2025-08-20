@@ -4,15 +4,15 @@
   "app_title": "IPTV Player Pro",
   "force_dns": true,
 
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ads_promotion_url": "https://vxiptv.com/wp-content/uploads/2025/07/5769484875010677067-scaled.webp",
   "ads_show_delay_ms": 1000,
 
-  "banner_enabled": false,
+  "banner_enabled": true,
   "banner_image_url": "https://vxiptv.com/wp-content/uploads/2025/08/Design-sans-titre-1.png",
   "banner_link_url": "https://vxiptv.com/",
 
-  "help_enabled": false,
+  "help_enabled": true,
   "help_text": "To get your free trial IPTV login, scan the QR code or visit vxiptv.com",
   "help_button_url": "https://vxiptv.com"
 }
