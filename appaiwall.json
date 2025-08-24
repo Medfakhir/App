@@ -33,6 +33,13 @@
 "ShowMockupData": false,
 "UpdateFromAmazon": true,
 "ShowCategories": false
+"EnableAmazonIAP": true,
+    "PremiumMonthlyPrice": "$4.99",
+    "PremiumYearlyPrice": "$29.99", 
+    "PremiumLifetimePrice": "$49.99",
+    "PremiumMonthlySKU": "premium_monthly_v2",
+    "PremiumYearlySKU": "premium_yearly_v2",
+    "PremiumLifetimeSKU": "premium_lifetime_v2"
 },
 "CpaAds": {
 "CpaCode": "bnc00",
