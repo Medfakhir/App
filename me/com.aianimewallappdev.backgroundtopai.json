@@ -38,9 +38,9 @@
     "PremiumMonthlyPrice": "$4.99",
     "PremiumYearlyPrice": "$29.99", 
     "PremiumLifetimePrice": "$49.99",
-    "PremiumMonthlySKU": "premium_monthly_v2",
+    "PremiumMonthlySKU": "premium_monthlyy",
     "PremiumYearlySKU": "premium_yearly",
-    "PremiumLifetimeSKU": "premium_monthlyy"
+    "PremiumLifetimeSKU": "premium_lifetime"
 },
 "CpaAds": {
 "CpaCode": "bnc00",
