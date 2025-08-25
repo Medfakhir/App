@@ -33,7 +33,7 @@
 "UpdateVersion": 1,
 "ShowMockupData": false,
 "UpdateFromAmazon": true,
-"ShowCategories": false
+"ShowCategories": false,
 "EnableAmazonIAP": true,
     "PremiumMonthlyPrice": "$4.99",
     "PremiumYearlyPrice": "$29.99", 
