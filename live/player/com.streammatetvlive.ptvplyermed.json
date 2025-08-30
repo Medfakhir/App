@@ -12,7 +12,7 @@
   "banner_image_url": "https://vxiptv.com/wp-content/uploads/2025/08/Design-sans-titre-1.png",
   "banner_link_url": "https://vxiptv.com/",
 
-  "help_enabled": false,
+  "help_enabled": true,
   "help_text": "To get your free trial IPTV login, scan the QR code or visit vxiptv.com",
   "help_button_url": "https://vxiptv.com"
 }
