@@ -1,25 +1,24 @@
 {
+  "show_ads": false,
   "ads_manager": {
     "mintegral": {
-      "showAds": false, 
-      "app_id": "365710",
-      "app_key": "e9754cffc9d2438360c6112213401ed9", 
+      "app_id": "144002",
+      "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
       "banner": {
-        "placement_id": "2251867",
-        "unit_id": "4290993"
+        "unit_id": "2677210",
+        "placement_id": "1010694"
       },
       "interstitial": {
-        "placement_id": "2251869",
-        "unit_id": "4290995"
-      },
-      "native": {
-        "placement_id": "22515873",
-        "unit_id": "462377"
+        "unit_id": "462374",
+        "placement_id": "290653"
       },
       "reward": {
-        "placement_id": "2251873",
-        "unit_id": "4290999"
+        "unit_id": "462372",
+        "placement_id": "290651"
       }
     }
+  },
+"rate": {
+    "url": "https://www.amazon.com/"
   }
 }
