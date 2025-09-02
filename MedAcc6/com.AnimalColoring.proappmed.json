@@ -1,16 +1,16 @@
 {
-  "show_ads": false,
+  "show_ads": true,
   "ads_manager": {
     "mintegral": {
-      "app_id": "144002",
-      "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
+      "app_id": "408500",
+      "app_key": "2af99fd7fca06c95e7e5f6686b5657ac",
       "banner": {
         "unit_id": "2677210",
         "placement_id": "1010694"
       },
       "interstitial": {
-        "unit_id": "462374",
-        "placement_id": "290653"
+        "unit_id": "4949424",
+        "placement_id": "2767871"
       },
       "reward": {
         "unit_id": "462372",
