@@ -1,6 +1,6 @@
 {
 "AdsManager": {
-"ShowAds": false,
+"ShowAds": true,
 "ShowDropAds": false,
 "ShowCpaAds": false,
 "AdmobClick": 2,
@@ -11,12 +11,12 @@
 "AdmobAppID": "ca-app-pub-3940256099942544~3347511713",
 "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
 "AdmobReward": "xxxxxxxxxxx",
-"MintegralAppID": "370794",
+"MintegralAppID": "408502",
 "MintegralAppKey": "e9754cffc9d2438360c6112213401ed9",
-"MintegralInterstitialUnitID": "4361732",
-"MintegralInterstitialPlacementID": "2306772",
-"MintegralRewardUnitID": "4361730",
-"MintegralRewardPlacementID": "2306770"
+"MintegralInterstitialUnitID": "4949454",
+"MintegralInterstitialPlacementID": "2767893",
+"MintegralRewardUnitID": "4949456",
+"MintegralRewardPlacementID": "2767895"
 },
 "MoreApps": [
 {
@@ -27,7 +27,7 @@
 
 ],
 "AppControl": {
-"OnesignalID": "0128ec07-6774-4d4f-ac16-dbc721d011da",
+"OnesignalID": "0128ec07-6774-4d4f-ac16-dbc721d011dassd",
 "ShowUpdate": false,
 "UpdateLink": "xxxxx",
 "UpdateVersion": 1,
