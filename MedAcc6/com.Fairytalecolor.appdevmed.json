@@ -1,24 +1,24 @@
 {
-  "show_ads": false,
+  "show_ads": true,
   "ads_manager": {
     "mintegral": {
-      "app_id": "144002",
-      "app_key": "7c22942b749fe6a6e361b675e96b3ee9",
+      "app_id": "408507",
+      "app_key": "2af99fd7fca06c95e7e5f6686b5657ac",
       "banner": {
         "unit_id": "",
         "placement_id": ""
       },
       "interstitial": {
-        "unit_id": "462374",
-        "placement_id": "290653"
+        "unit_id": "4949486",
+        "placement_id": "2767917"
       },
       "reward": {
-        "unit_id": "462372",
-        "placement_id": "290651"
+        "unit_id": "4949488",
+        "placement_id": "2767919"
       }
     }
   },
 "rate": {
-    "url": "https://www.amazon.com/"
+    "url": "https://www.amazon.com/gp/product/B0F2KKZ89K"
   }
 }
