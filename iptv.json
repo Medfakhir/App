@@ -1,6 +1,6 @@
 {
   "server_url": "https://line.mediame.my",
-  "hide_server_url_input": true,
+  "hide_server_url_input": false,
   "show_ads": true,
   "ads_url": "vxiptv.com/ads.mp4",
   "show_help_button": true
