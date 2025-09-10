@@ -1,6 +1,6 @@
 {
   "server_url": "http://kytv.xyz",
-  "hide_server_url_input": false,
+  "hide_server_url_input": true,
   "show_ads": true,
   "ads_url": "vxiptv.com/ads.mp4",
   "show_help_button": true
