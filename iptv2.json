@@ -8,5 +8,7 @@
   "pricing_text": "65£ For 1 Year | Free Trial | WhatsApp: +44 7380 310123",
   "show_qr_code": true,
   "qr_setup_url": "https://fireiptv.com",
-  "qr_instructions": "To add playlist scan the QR or visit"
+  "qr_instructions": "To add playlist scan the QR or visit",
+  "use_custom_qr_image": false,
+  "custom_qr_image_url": "https://play-lh.googleusercontent.com/Byl6BHzEv7tWDGa5QUgztneq8C8TGYelu8ywVMTTRUH2e9keboyLqL4YhmzaU3vjgA=w240-h480-rw"
 }
