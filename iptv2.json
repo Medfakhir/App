@@ -1,6 +1,6 @@
 {
   "server_url": "https://line.mediame.my",
-  "hide_server_url_input": true,
+  "hide_server_url_input": false,
   "show_marketing_text": true,
   "marketing_text": "THIS PLAYER IS ONLY FOR FIRE IPTV USERS",
   "show_pricing": true,
