@@ -1,12 +1,12 @@
 {
   "server_url": "http://your-server.com:8080",
   "hide_server_url_input": true,
-  "show_marketing_text": false,
+  "show_marketing_text": true,
   "marketing_text": "THIS PLAYER IS ONLY FOR FIRE IPTV USERS",
-  "show_pricing": false,
+  "show_pricing": true,
   "pricing_text": "65£ For 1 Year | Free Trial | WhatsApp: +44 7380 310123",
   "qr_setup_url": "https://fireiptv.com",
   "qr_instructions": "To add playlist scan the QR or visit",
-  "use_custom_qr_image": false,
+  "use_custom_qr_image": true,
   "custom_qr_image_url": "https://play-lh.googleusercontent.com/Byl6BHzEv7tWDGa5QUgztneq8C8TGYelu8ywVMTTRUH2e9keboyLqL4YhmzaU3vjgA=w240-h480-rw"
 }
