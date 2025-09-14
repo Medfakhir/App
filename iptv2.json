@@ -2,12 +2,12 @@
   "server_url": "http://kytv.xyz",
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
   "hide_server_url_input": true,
-  "show_marketing_text": true,
+  "show_marketing_text": false,
   "marketing_text": "THIS PLAYER IS ONLY FOR FIRE IPTV USERS",
-  "show_pricing": true,
+  "show_pricing": false,
   "pricing_text": "65£ For 1 Year | Free Trial | WhatsApp: +44 7380 310123",
   "qr_setup_url": "https://fireiptv.com",
   "qr_instructions": "To add playlist scan the QR or visit",
-  "use_custom_qr_image": true,
+  "use_custom_qr_image": false,
   "custom_qr_image_url": "https://play-lh.googleusercontent.com/Byl6BHzEv7tWDGa5QUgztneq8C8TGYelu8ywVMTTRUH2e9keboyLqL4YhmzaU3vjgA=w240-h480-rw"
 }
