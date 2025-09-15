@@ -1,7 +1,7 @@
 {
-  "server_url": "http://kytv.xyz",
+  "server_url": "",
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
-  "hide_server_url_input": true,
+  "hide_server_url_input": false,
   "show_marketing_text": false,
   "marketing_text": "THIS PLAYER IS ONLY FOR FIRE IPTV USERS",
   "show_pricing": false,
