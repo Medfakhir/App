@@ -4,10 +4,10 @@
   "hide_server_url_input": false,
   "show_marketing_text": true,
   "marketing_text": "Viva IBO Player does not sell any playlists or offer any affiliate services.",
-  "show_pricing": false,
-  "pricing_text": "65£ For 1 Year | Free Trial | WhatsApp: +44 7380 310123",
-  "qr_setup_url": "https://fireiptv.com",
+  "show_pricing": true,
+  "pricing_text": "Get 24h Free Trial",
+  "qr_setup_url": "https://vxiptv.com/",
   "qr_instructions": "To add playlist scan the QR or visit",
-  "use_custom_qr_image": false,
-  "custom_qr_image_url": "https://play-lh.googleusercontent.com/Byl6BHzEv7tWDGa5QUgztneq8C8TGYelu8ywVMTTRUH2e9keboyLqL4YhmzaU3vjgA=w240-h480-rw"
+  "use_custom_qr_image": true,
+  "custom_qr_image_url": "https://vxiptv.com/vxiptvqr.png"
 }
