@@ -2,12 +2,12 @@
   "server_url": "http://vpns365.xyz",
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
   "hide_server_url_input": false,
-  "show_marketing_text": false,
-  "marketing_text": "Check our website to get a free trial or go Pro with Bio Player!",
-  "show_pricing": false,
+  "show_marketing_text": true,
+  "marketing_text": "Check our website to get a free trial or go Pro with smarter player pro!",
+  "show_pricing": true,
   "pricing_text": "Get 24h Free Trial",
   "qr_setup_url": "https://vxiptv.com/",
   "qr_instructions": "To add playlist scan the QR or visit",
-  "use_custom_qr_image": false,
+  "use_custom_qr_image": true,
   "custom_qr_image_url": "https://vxiptv.com/vxiptvqr.png"
 }
