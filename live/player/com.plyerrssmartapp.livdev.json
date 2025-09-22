@@ -1,7 +1,7 @@
 {
   "server_url": "http://vpns365.xyz",
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
-  "hide_server_url_input": false,
+  "hide_server_url_input": true,
   "show_marketing_text": false,
   "marketing_text": "Check our website to get a free trial or go Pro",
   "show_pricing": false,
