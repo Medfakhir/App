@@ -1,10 +1,10 @@
 {
-  "server_url": "http://vpns365767.xyz",
+  "server_url": "http://vpns365.xyz",
   "backup_server_urls": [
     "http://tv365.me",
     "http://smarters.live:80",
   ],
-  "amplitude_api_key": "k3hD4SvFMkYYW4fWsHPB2OAP5TjT0MYF",
+  "amplitude_api_key": "972d4a1da1a513dd620423f4bdeaca66",
   "hide_server_url_input": true,
   "show_marketing_text": true,
   "marketing_text": "THIS PLAYER IS ONLY FOR VXIPTV USERS",
