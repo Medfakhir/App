@@ -1,18 +1,17 @@
 {
-  "server_url": "",
+  "server_url": "http://vpns365.xyz",
   "backup_server_urls": [
     "http://tv365.me",
     "http://smarters.live:80",
-    "http://vpns365.xyz",
   ],
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
-  "hide_server_url_input": false,
-  "show_marketing_text": false,
+  "hide_server_url_input": true,
+  "show_marketing_text": true,
   "marketing_text": "THIS PLAYER IS ONLY FOR VXIPTV USERS",
-  "show_pricing": false,
+  "show_pricing": true,
   "pricing_text": "Get 4 hours Free Trial From our website",
   "qr_setup_url": "https://vxiptv.com/",
   "qr_instructions": "To add playlist scan the QR or visit",
-  "use_custom_qr_image": false,
+  "use_custom_qr_image": true,
   "custom_qr_image_url": "https://vxiptv.com/vxiptvqr.png"
 }
