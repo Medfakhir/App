@@ -1,9 +1,9 @@
 {
-  "server_url": ",
+  "server_url":"",
   "backup_server_urls": [
     "http://tv365.me",
     "http://smarters.live:80",
-    "http://vpns365.xyz"",
+    "http://vpns365.xyz",
   ],
   "amplitude_api_key": "7d52a14892d7dbf91b7799314fdb565",
   "hide_server_url_input": false,
