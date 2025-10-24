@@ -1,0 +1,853 @@
+{
+"AppRedirect": {
+"status": false,
+"version": "1.0.0",
+"redirectURL": "https://play.google.com/store/apps/details?id=com.skinclothrobo.robloxpaintavta"
+},
+"AdsController": {
+"README": [
+"To run ads for each network, enter one of this : 'admob' , 'applovin' , 'ironsource', 'promote' ,'browser for open web url' ",
+"⚠️Warning: OpenAd work only on admob & applovin at time."
+],
+"AdRunning": false,
+"BannerNetwork": "admob",
+"InterstitialNetwork": "admob",
+"NativeNetwork": "admob",
+"OpenAdNetwork": "admob",
+"AdInterval": 1,
+"NativeAdRow": 3,
+"AdPlacement": {
+"AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+"AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+"AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+"AdMobOpenAd": "ca-app-pub-3940256099942544/9257395921",
+"FacebookBanner": "621902803077355_621904523077183",
+"FacebookInterstitial": "621902803077355_621905109743791",
+"FacebookNative": "621902803077355_621906106410358",
+"ApplovinKey": "LreapzyrBGU5_1vnH-_3ekh-u5JeC1n9VR_4t5G45PXV2-6kdpe6R0xgDtSnl0idqwfll751xB2UXNOTmy9Sou",
+"ApplovinBanner": "d91af6ae1c767a59",
+"ApplovinBanneriOS": "d91af6ae1c767a59",
+"ApplovinInterstitial": "98f6a586ed642919",
+"ApplovinInterstitialiOS": "98f6a586ed642919",
+"ApplovinNative": "9b38ddbe7971f4b9",
+"ApplovinNativeiOS": "9b38ddbe7971f4b9",
+"ApplovinOpenAd": "98f6a586ed642919",
+"PrivacyURL": "https://crushgame.site/privacy",
+"OnesignalID": "your-onesignal-id",
+"WebURL": "https://crushgame.site"
+},
+"PopAdSetting": {
+"showBtnClose": false,
+"showFullScreen": false,
+"icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+"preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+"title": "Good news ! play and earn coins",
+"button_title": "Install",
+"button_url": "https://github.com/saidmotya/"
+}
+},
+"appData": {
+"characters": [
+{
+"title": "Super Hero",
+"cloth": "https://imgur.com/emB4U7d.png",
+"description": "A legendary figure in the realm of Robloxia, Super Hero is the beacon of hope for all. Equipped with super strength, flight, and laser vision, they rise whenever evil strikes. Whether it’s a city under siege or an alien invasion, Super Hero never backs down from a fight for justice."
+},
+{
+"title": "Rogue Space",
+"cloth": "https://imgur.com/xutxuJm.png",
+"description": "Once a decorated pilot of the Galactic Federation, Rogue Space turned renegade after discovering the truth about a corrupted galaxy. Now, they fly solo through the stars, hunted by bounty hunters and cosmic warlords, searching for lost tech and redemption among the stars."
+},
+{
+"title": "Bull Demon King",
+"cloth": "https://imgur.com/7GWr23C.png",
+"description": "An ancient beast awakened from the darkest depths of Roblox mythology. The Bull Demon King commands an army of lava minions and is feared for his unstoppable rage and brute strength. Only the bravest dare to challenge his rule over the Firelands."
+},
+{
+"title": "Gang O’ Fries",
+"cloth": "https://imgur.com/RBc1pUo.png",
+"description": "Don’t let their golden crunch fool you—Gang O’ Fries is no joke. A rogue crew of fast-food warriors with crispy resolve and a salty sense of humor, they pack a punch and leave grease trails wherever they go. They're here to take over the snack shack turf, one fry at a time."
+},
+{
+"title": "Mech Mobility",
+"cloth": "https://imgur.com/IgrQePn.png",
+"description": "Built in the top-secret robotics facility of CyberCorp, Mech Mobility is the ultimate fusion of agility and firepower. Armed with jet boosters, AI-guided weaponry, and adaptive armor, this mech unit is designed to dominate any battlefield it enters, no matter the terrain."
+},
+{
+"title": "Roblox Zombie",
+"cloth": "https://imgur.com/pO8mE2j.png",
+"description": "Once a regular citizen, now cursed with an eternal hunger for brains. The Roblox Zombie lurks in abandoned servers and corrupted maps, always ready to ambush unsuspecting players. Slow but relentless, this undead terror thrives in numbers and shadows."
+},
+{
+"title": "Knight Of Redcliff",
+"cloth": "https://imgur.com/jN1n95o.png",
+"description": "Sworn protector of the ancient Redcliff kingdom, this knight lives by a sacred code of honor, bravery, and justice. Wielding a flaming sword and adorned in enchanted armor, they’ve stood against dragons, dark mages, and enemy legions, earning their place in legend."
+},
+{
+"title": "Rusty & Copper",
+"cloth": "https://imgur.com/Wjy7q6u.png",
+"description": "Two quirky robots salvaged from a forgotten junkyard, Rusty is the muscle and Copper is the brains. Together, they embark on wild adventures, solving puzzles, fixing machines, and occasionally short-circuiting in the most hilarious ways possible. A true duo of chaos and charm."
+},
+{
+"title": "Elemental Crystal",
+"cloth": "https://imgur.com/DFXT3M4.png",
+"description": "Born from the fusion of earth, fire, water, and air, Elemental Crystal is a guardian of balance. Each crystal embedded in their body pulses with raw natural energy, enabling them to command storms, quakes, and flames. They are nature’s last defense against technological corruption."
+},
+{
+"title": "Ten Million Robux",
+"cloth": "https://imgur.com/PWkZmcz.png",
+"description": "The embodiment of ultimate wealth and style in the Roblox world. Clad in golden armor with a shimmering crown, Ten Million Robux flaunts their fortune with every step. But behind the lavish gear is a skilled tactician who knows how to buy victory—or earn it the hard way."
+},
+{
+"title": "Block LNX",
+"cloth": "https://imgur.com/U7OHnKe.png",
+"description": "Inspired by real-world hip-hop icons, Block LNX brings beats and power to the battlefield. Known for their signature mic-swing attack and rhythm-based combos, they’re not just about looks—they’ve got bars, bold moves, and loyal fans across all servers of Robloxia."
+},
+{
+"title": "Nick Bass",
+"cloth": "https://imgur.com/wuRPrOS.png",
+"description": "When the bass drops, Nick Bass rises. A mysterious DJ from the Neon District, Nick uses music as a weapon—literally. His sound waves can blast enemies off their feet, and his remixes can control minds. Whether in a battle or on a stage, Nick Bass is the heartbeat of the revolution."
+}
+],
+"outfits": [
+{
+"title": "T-shirt",
+"preview": "https://imgur.com/u3jsAyw.png",
+"list": [
+{
+"title": "Steven Universe",
+"clothId": "4143",
+"cloth": "https://imgur.com/kJEvSY9.png",
+"description": "Inspired by the beloved animated show, this tee brings Steven's iconic charm to your Roblox look."
+},
+{
+"title": "Y2K Star Cropped Tee",
+"clothId": "4144",
+"cloth": "https://imgur.com/QNhICSw.png",
+"description": "Retro and stylish, this cropped tee with star prints is perfect for a 2000s throwback vibe."
+},
+{
+"title": "Tiger Stripe T-Shirt",
+"clothId": "4145",
+"cloth": "https://imgur.com/CfQcc9s.png",
+"description": "Unleash your wild side with this bold tiger stripe pattern – edgy and fierce for every avatar."
+},
+{
+"title": "Butterfly Princess Top",
+"clothId": "4146",
+"cloth": "https://imgur.com/QjJqOhg.png",
+"description": "A dreamy top with delicate butterfly accents, ideal for your fairycore or princess-inspired look."
+},
+{
+"title": "Cinnamoroll Plushie",
+"clothId": "4147",
+"cloth": "https://imgur.com/ViPWVX1.png",
+"description": "Soft, cute, and Kawaii! This outfit brings the beloved Sanrio character Cinnamoroll into your Roblox style."
+},
+{
+"title": "Cute Off-Shoulder Black",
+"clothId": "4148",
+"cloth": "https://imgur.com/EU91pO7.png",
+"description": "Flirty yet classy, this black off-shoulders top gives your avatar a confident, trendy vibe."
+},
+{
+"title": "Tight Baby Top",
+"clothId": "4149",
+"cloth": "https://imgur.com/xzvQCdh.png",
+"description": "Sleek and stylish, this tight-fit baby top hugs your avatar for a chic, modern appearance."
+},
+{
+"title": "Pink Crop Top",
+"clothId": "4150",
+"cloth": "https://imgur.com/jANjrLc.png",
+"description": "Keep it sweet and simple with this pastel pink crop – a go-to for cute, casual looks."
+},
+{
+"title": "Y2K Star Baby Tee",
+"clothId": "4151",
+"cloth": "https://imgur.com/extg78A.png",
+"description": "Tiny stars and Y2K aesthetics meet in this trendy baby tee – perfect for softcore and vaporwave fits."
+},
+{
+"title": "Baseball Long Sleeve",
+"clothId": "4152",
+"cloth": "https://imgur.com/HevhoWU.png",
+"description": "Classic sporty style meets Roblox flair – this long sleeve is perfect for casual and athletic fits."
+}
+]
+},
+{
+"title": "Sweaters",
+"preview": "https://imgur.com/qP3f6PV.png",
+"list": [
+{
+"title": "NY Front Crewneck",
+"clothId": "4153",
+"cloth": "https://imgur.com/qwF8lU7.png",
+"description": "Classic New York-style crewneck with a sleek urban look, perfect for everyday wear."
+},
+{
+"title": "Posed Off Shoulder",
+"clothId": "4154",
+"cloth": "https://imgur.com/Tr1n6EF.png",
+"description": "Trendy off-shoulder sweater that adds a stylish and confident vibe to any avatar."
+},
+{
+"title": "Kawaii Little Brown",
+"clothId": "4155",
+"cloth": "https://imgur.com/dND05Aa.png",
+"description": "Adorable brown kawaii-themed sweater with soft tones for a cozy and cute appearance."
+},
+{
+"title": "Adorable Brown Bunny",
+"clothId": "4156",
+"cloth": "https://imgur.com/0BSCJUe.png",
+"description": "Fluffy brown sweater featuring bunny ears or prints, ideal for a playful look."
+},
+{
+"title": "Kawaii Pink Bunny Jacket",
+"clothId": "4157",
+"cloth": "https://imgur.com/9jAPxVC.png",
+"description": "Charming pink bunny-themed jacket with kawaii aesthetics, great for softcore or pastel lovers."
+},
+{
+"title": "Cropped Corset Hoodie",
+"clothId": "4158",
+"cloth": "https://imgur.com/Hpe4rRF.png",
+"description": "Modern cropped hoodie with corset-style details for a bold and fashionable statement."
+},
+{
+"title": "Sweater Sleeve Fur Parka",
+"clothId": "4159",
+"cloth": "https://imgur.com/tyFTmFX.png",
+"description": "Winter-ready parka with cozy fur lining and oversized sweater sleeves for added warmth."
+},
+{
+"title": "Red Designer Sweater",
+"clothId": "4160",
+"cloth": "https://imgur.com/onFFO2b.png",
+"description": "Elegant and rich-looking red sweater with designer-inspired patterns for a luxury feel."
+},
+{
+"title": "Cute Oversized Cropped",
+"clothId": "4161",
+"cloth": "https://imgur.com/rNinDAg.png",
+"description": "Trendy oversized cropped sweater with a cute, relaxed vibe for chill avatars."
+},
+{
+"title": "Christmas Sweater",
+"clothId": "4162",
+"cloth": "https://imgur.com/65iWwlU.png",
+"description": "Festive holiday-themed sweater with cheerful colors and patterns perfect for winter events."
+}
+]
+},
+{
+"title": "Dress & Skirts",
+"preview": "https://imgur.com/5NBl4gU.png",
+"list": [
+{
+"title": "Cute Gingham Doll Dress",
+"clothId": "4163",
+"cloth": "https://imgur.com/h91eRLM.png",
+"description": "A charming checkered dress perfect for a soft doll-like appearance, ideal for casual or playful avatars."
+},
+{
+"title": "Sun Dress",
+"clothId": "4164",
+"cloth": "https://imgur.com/2miTOl5.png",
+"description": "A light, breezy dress perfect for summer-themed games or sunny outdoor environments."
+},
+{
+"title": "Classy Halter Dress",
+"clothId": "4165",
+"cloth": "https://imgur.com/5w9ivZM.png",
+"description": "Elegant and sleek, this halter-style dress is ideal for parties or formal roleplay events."
+},
+{
+"title": "Floral",
+"clothId": "4166",
+"cloth": "https://imgur.com/Kb9hgyv.png",
+"description": "A beautiful dress covered in floral patterns, giving off spring vibes and garden party elegance."
+},
+{
+"title": "Pink Symmetric Ruffles",
+"clothId": "4167",
+"cloth": "https://imgur.com/6AKt6ra.png",
+"description": "A stylish pink outfit with symmetrical ruffles, blending cuteness and modern fashion perfectly."
+},
+{
+"title": "Cropped Corset Hoodie",
+"clothId": "4168",
+"cloth": "https://imgur.com/CPef33P.png",
+"description": "A trendy fusion of casual and edgy style, with corset detailing for a bold streetwear look."
+},
+{
+"title": "Baby Blue Pleated Valentines Day Heart Dress",
+"clothId": "4169",
+"cloth": "https://imgur.com/naS3SCs.png",
+"description": "A romantic pleated dress with soft colors and heart accents, ideal for Valentine’s Day themes."
+},
+{
+"title": "Y2K Star Baby Tee w Armwarmers (Blue)",
+"clothId": "4170",
+"cloth": "https://imgur.com/XtLlafh.png",
+"description": "A throwback to early 2000s fashion, featuring a star-pattern baby tee and matching arm warmers."
+},
+{
+"title": "Cute Oversized Cropped Hoodie - Brown",
+"clothId": "4171",
+"cloth": "https://imgur.com/SH3wKpw.png",
+"description": "A comfy and cozy oversized cropped hoodie in brown, perfect for a relaxed and cute avatar style."
+},
+{
+"title": "Baseball Long Sleeve - Red",
+"clothId": "4172",
+"cloth": "https://imgur.com/Qx69pvD.png",
+"description": "A sporty red long-sleeve shirt with baseball styling, great for athletic or casual character designs."
+}
+]
+},
+{
+"title": "Pants",
+"preview": "https://imgur.com/r6Kx9s1.png",
+"list": [
+{
+"title": "Cross Y2K Cargo Pants",
+"clothId": "4173",
+"cloth": "https://imgur.com/J5HrN28.png",
+"description": "Trendy cargo pants with a Y2K streetwear vibe, perfect for urban styles."
+},
+{
+"title": "Cute Denim Shorts",
+"clothId": "4174",
+"cloth": "https://imgur.com/J1t4IyR.png",
+"description": "Casual and cute denim shorts ideal for summer or chill Roblox hangs."
+},
+{
+"title": "Rainbow Cartoony Pants",
+"clothId": "4175",
+"cloth": "https://imgur.com/ZqNLeHq.png",
+"description": "Colorful pants with a fun, cartoon-inspired rainbow design."
+},
+{
+"title": "White Y2K Cargo Pants",
+"clothId": "4176",
+"cloth": "https://imgur.com/dY2OstL.png",
+"description": "Crisp white cargo pants blending Y2K fashion with a clean aesthetic."
+},
+{
+"title": "Oversized Denim Overalls",
+"clothId": "4177",
+"cloth": "https://imgur.com/fG67R2r.png",
+"description": "Classic oversized overalls for a comfy and cool retro look."
+},
+{
+"title": "Pink & White Hearts Y2K",
+"clothId": "4178",
+"cloth": "https://imgur.com/qfZogpF.png",
+"description": "Adorable Y2K pants with heart patterns, combining sweet and sassy."
+},
+{
+"title": "Blue Butterfly Pants",
+"clothId": "4179",
+"cloth": "https://imgur.com/yY3PE74.png",
+"description": "Stylish blue pants adorned with butterfly motifs for a soft, dreamy look."
+},
+{
+"title": "Baggy Jeans",
+"clothId": "4180",
+"cloth": "https://imgur.com/W1dHDAv.png",
+"description": "Loose-fitting baggy jeans, great for relaxed and edgy Roblox avatars."
+},
+{
+"title": "ardor* Skinny Boxer Jeans",
+"clothId": "4181",
+"cloth": "https://imgur.com/9WXwb9X.png",
+"description": "Slim-fit boxer-style jeans with a bold, fashion-forward aesthetic."
+},
+{
+"title": "Denim Tears Sweatpants",
+"clothId": "4182",
+"cloth": "https://imgur.com/gvVz6Ap.png",
+"description": "Comfy sweatpants with designer flair, inspired by street fashion brand Denim Tears."
+}
+]
+},
+{
+"title": "Head",
+"preview": "https://imgur.com/pAibikh.png",
+"list": [
+{
+"title": "Angry Diamond",
+"clothId": "4183",
+"cloth": "https://imgur.com/ajl6wjk.png",
+"description": "A fierce and powerful head style with sharp features, perfect for a bold and rebellious avatar."
+},
+{
+"title": "Smiler",
+"clothId": "4184",
+"cloth": "https://imgur.com/x6vbx2C.png",
+"description": "A cheerful and friendly face that brings a bright and positive vibe to your avatar."
+},
+{
+"title": "Y2k Moe Anime Face",
+"clothId": "4185",
+"cloth": "https://imgur.com/C2zaIXC.png",
+"description": "Inspired by early 2000s anime aesthetics, this head features big eyes and a cute, nostalgic look."
+},
+{
+"title": "Anime Bored Eyes",
+"clothId": "4186",
+"cloth": "https://imgur.com/WDBUMOU.png",
+"description": "An emotionless, cool anime expression that gives your character a chill and mysterious look."
+},
+{
+"title": "Surprised Scene Fang",
+"clothId": "4187",
+"cloth": "https://imgur.com/DbgI47t.png",
+"description": "A playful expression with a small fang showing, perfect for energetic or dramatic avatars."
+},
+{
+"title": "Shorter Neck Faceless",
+"clothId": "4188",
+"cloth": "https://imgur.com/7utxYNW.png",
+"description": "A minimalistic head with no facial features, ideal for abstract or horror-themed characters."
+},
+{
+"title": "Playful Prankster",
+"clothId": "4189",
+"cloth": "https://imgur.com/RSykbQf.png",
+"description": "A mischievous look that adds a touch of humor and trickster charm to your avatar."
+},
+{
+"title": "Side Head (Left)",
+"clothId": "4190",
+"cloth": "https://imgur.com/Of1MXpe.png",
+"description": "A unique sideways-facing head model that gives a distinct and quirky appearance."
+},
+{
+"title": "Cute Chibi Blush Wink",
+"clothId": "4191",
+"cloth": "https://imgur.com/ShS4LnK.png",
+"description": "An adorable anime-inspired chibi face with a wink and blush, perfect for kawaii styles."
+},
+{
+"title": "Skeleton Skull Head",
+"clothId": "4192",
+"cloth": "https://imgur.com/AwNmKth.png",
+"description": "A spooky and detailed skull head design for Halloween or horror-themed avatars."
+}
+]
+},
+{
+"title": "Face",
+"preview": "https://imgur.com/DcrLNf6.png",
+"list": [
+{
+"title": "Orange Shades",
+"clothId": "5001",
+"cloth": "https://imgur.com/Sy8e9xo.png",
+"description": "Trendy summer look with stylish orange-tinted sunglasses."
+},
+{
+"title": "Doe Eye Brownie Makeup",
+"clothId": "5002",
+"cloth": "https://imgur.com/efaOV9f.png",
+"description": "Soft brown tones with wide, innocent eyes for a natural charm."
+},
+{
+"title": "Cute Strawberry Makeup",
+"clothId": "5003",
+"cloth": "https://imgur.com/uyAXS9O.png",
+"description": "Sweet strawberry blush with soft pink lips for a fruity glow."
+},
+{
+"title": "Cute Baby Bear Plushie",
+"clothId": "5004",
+"cloth": "https://imgur.com/cdcuiyu.png",
+"description": "Adorable plushie-inspired look with warm, cuddly features."
+},
+{
+"title": "Just Better Makeup",
+"clothId": "5006",
+"cloth": "https://imgur.com/zLUmAgw.png",
+"description": "A flawless, glowy base with subtle accents for a 'no makeup' makeup look."
+},
+{
+"title": "Cute Blush Korean Makeup",
+"clothId": "5007",
+"cloth": "https://imgur.com/YRKUDEJ.png",
+"description": "Dewy skin with pink blush and youthful eyes, inspired by K-beauty."
+},
+{
+"title": "Stitched Dark Glam",
+"clothId": "5008",
+"cloth": "https://imgur.com/o7KqX9b.png",
+"description": "Edgy stitched detail with dramatic eye makeup and a gothic vibe."
+},
+{
+"title": "Nagi",
+"clothId": "5009",
+"cloth": "https://imgur.com/xrzovQT.png",
+"description": "Minimalistic and calm expression with soft, anime-style features."
+},
+{
+"title": "Cute Excited Face - Light",
+"clothId": "5010",
+"cloth": "https://imgur.com/L8DFd1T.png",
+"description": "Bright-eyed and energetic expression with a joyful glow."
+},
+{
+"title": "Y2K Face Stars",
+"clothId": "5011",
+"cloth": "https://imgur.com/Z5UNfwG.png",
+"description": "Throwback to early 2000s with glossy lips and star-themed sparkles."
+}
+]
+},
+{
+"title": "Neck",
+"preview": "https://imgur.com/axJNrS8.png",
+"list": [
+{
+"title": "Vee's Bow Tie",
+"clothId": "4193",
+"cloth": "https://imgur.com/RToWfKf.png",
+"description": "A stylish bow tie with a classy V-cut, perfect for formal avatars."
+},
+{
+"title": "Bling Chain",
+"clothId": "4194",
+"cloth": "https://imgur.com/euezpsR.png",
+"description": "A flashy gold chain that adds a bold, luxurious statement."
+},
+{
+"title": "Gold Money Chain",
+"clothId": "4195",
+"cloth": "https://imgur.com/neWRRhA.png",
+"description": "An extravagant gold chain featuring a dollar sign, made for wealthy looks."
+},
+{
+"title": "Silver Clover Pendant",
+"clothId": "4196",
+"cloth": "https://imgur.com/WUWoGvO.png",
+"description": "A shiny silver chain with a lucky four-leaf clover pendant."
+},
+{
+"title": "Gold Necklace",
+"clothId": "4197",
+"cloth": "https://imgur.com/izBBsiG.png",
+"description": "A simple yet elegant gold necklace suitable for any occasion."
+},
+{
+"title": "Cute Pink Bow Necklace",
+"clothId": "4198",
+"cloth": "https://imgur.com/oXGoZVV.png",
+"description": "A soft pink bow necklace that adds a touch of cuteness and charm."
+},
+{
+"title": "Black Plaid Scarf",
+"clothId": "4199",
+"cloth": "https://imgur.com/Db3xkSF.png",
+"description": "A cozy black scarf with a plaid pattern, perfect for a casual winter look."
+},
+{
+"title": "4.0 Boy Iced Chain",
+"clothId": "4200",
+"cloth": "https://imgur.com/q0RVfaN.png",
+"description": "An iced-out chain designed for the stylish 4.0 avatar boys."
+},
+{
+"title": "Black Fur Collar",
+"clothId": "4201",
+"cloth": "https://imgur.com/wMGq5b1.png",
+"description": "A luxurious fur collar that adds elegance and warmth."
+},
+{
+"title": "Iced Golden Gun Chain",
+"clothId": "4202",
+"cloth": "https://imgur.com/wpfB4YU.png",
+"description": "A bold gold chain with a gun pendant encrusted with ice."
+}
+]
+},
+{
+"title": "Hair",
+"preview": "https://imgur.com/PUdV8uc.png",
+"list": [
+{
+"title": "Brown Hair",
+"clothId": "4203",
+"cloth": "https://imgur.com/tQb8pV9.png",
+"description": "Classic and simple brown hairstyle perfect for any casual Roblox avatar."
+},
+{
+"title": "Lavender Updo",
+"clothId": "4204",
+"cloth": "https://imgur.com/xVWxpUF.png",
+"description": "Elegant lavender-colored updo suited for formal or fantasy looks."
+},
+{
+"title": "Pony Tail - Brown",
+"clothId": "4205",
+"cloth": "https://imgur.com/WzFo3EV.png",
+"description": "Neatly tied brown ponytail ideal for sporty or school-themed outfits."
+},
+{
+"title": "Wavy Middle Part",
+"clothId": "4206",
+"cloth": "https://imgur.com/UIL6brz.png",
+"description": "Chic waves with a center part—great for a modern, stylish avatar."
+},
+{
+"title": "Short and Sleek",
+"clothId": "4207",
+"cloth": "https://imgur.com/BFj3nxI.png",
+"description": "Minimalist short haircut offering a clean and fashionable appearance."
+},
+{
+"title": "Pal Hair",
+"clothId": "4208",
+"cloth": "https://imgur.com/ZmUc6Qc.png",
+"description": "Friendly and popular Roblox starter hair—perfect for a casual look."
+},
+{
+"title": "True Blue Hair",
+"clothId": "4209",
+"cloth": "https://imgur.com/Zq9YV8W.png",
+"description": "Bold blue hairstyle for avatars with a vibrant, confident style."
+},
+{
+"title": "Orange Beanie With Cap",
+"clothId": "4210",
+"cloth": "https://imgur.com/XRV5Y1i.png",
+"description": "Trendy orange beanie combined with cap—perfect for streetwear avatars."
+},
+{
+"title": "Belle Of Belfast Long",
+"clothId": "4211",
+"cloth": "https://imgur.com/6q2TK22.png",
+"description": "Flowing, graceful hairstyle ideal for fantasy or princess-themed avatars."
+},
+{
+"title": "Pony Tail - Blonde",
+"clothId": "4212",
+"cloth": "https://imgur.com/NLAFLyn.png",
+"description": "Bright blonde ponytail that adds charm and energy to your look."
+}
+]
+},
+{
+"title": "Bundles",
+"preview": "https://imgur.com/KWKKUUc.png",
+"list": [
+{
+"title": "Levitation Animation",
+"clothId": "4213",
+"cloth": "https://imgur.com/tERoUnr.png",
+"description": "Gives your avatar a smooth floating motion for walking, jumping, and idle poses—perfect for a mystical or magical look."
+},
+{
+"title": "Ninja Animation",
+"clothId": "4214",
+"cloth": "https://imgur.com/NjOcuec.png",
+"description": "Fast, agile, and stealthy movement animations that make your avatar move like a true shadow warrior."
+},
+{
+"title": "Superhero Animation",
+"clothId": "4215",
+"cloth": "https://imgur.com/hhkgkTV.png",
+"description": "Adds bold and confident stances with heroic movement—ideal for characters who save the day."
+},
+{
+"title": "Toy Animation Pack",
+"clothId": "4216",
+"cloth": "https://imgur.com/F1S9jtS.png",
+"description": "Gives your avatar stiff, playful movements like a toy figure—fun and whimsical!"
+},
+{
+"title": "Rthro Animation Pack",
+"clothId": "4217",
+"cloth": "https://imgur.com/MLa34lO.png",
+"description": "Provides more realistic human-like animations designed for Rthro avatars with natural walking and idle poses."
+},
+{
+"title": "No Boundaries Animation",
+"clothId": "4218",
+"cloth": "https://imgur.com/Sxh60Mn.png",
+"description": "Break free from standard animations—this pack features energetic and exaggerated motions full of personality."
+},
+{
+"title": "NFL Animation Pack",
+"clothId": "4219",
+"cloth": "https://imgur.com/JZaep8K.png",
+"description": "Inspired by football athletes, this animation includes power walks, ready stances, and dynamic motion for sports lovers."
+},
+{
+"title": "Catwalk Glam Animation",
+"clothId": "4220",
+"cloth": "https://imgur.com/izSYXDo.png",
+"description": "Elegant, sassy, and confident walk and pose animations, perfect for stylish runway-ready avatars."
+},
+{
+"title": "Vampire Animation",
+"clothId": "4221",
+"cloth": "https://imgur.com/ZttbFMJ.png",
+"description": "Adds eerie, smooth, and gothic movements—ideal for dark, spooky, or supernatural characters."
+},
+{
+"title": "Bubbly Animation",
+"clothId": "4222",
+"cloth": "https://imgur.com/GeyWdvy.png",
+"description": "Fun, peppy, and full of energy—this animation is perfect for cheerful, upbeat avatars."
+}
+]
+},
+{
+"title": "Emotes",
+"preview": "https://imgur.com/KtwRiee.png",
+"list": [
+{
+"title": "Fashionable",
+"clothId": "4223",
+"cloth": "https://imgur.com/FR4Rgnq.png",
+"description": "Strike a stylish pose to show off your flair."
+},
+{
+"title": "Haha",
+"clothId": "4224",
+"cloth": "https://imgur.com/jT0OcBK.png",
+"description": "Burst into laughter with this joyful emote."
+},
+{
+"title": "Fast Hand",
+"clothId": "4225",
+"cloth": "https://imgur.com/E0n4sTe.png",
+"description": "A quick-hand gesture to show off your speed and skill."
+},
+{
+"title": "Applaud",
+"clothId": "4226",
+"cloth": "https://imgur.com/y1qilvv.png",
+"description": "Clap your hands to cheer or celebrate."
+},
+{
+"title": "Floss Dance",
+"clothId": "4227",
+"cloth": "https://imgur.com/A9i9kZi.png",
+"description": "Perform the iconic floss dance with energetic swings."
+},
+{
+"title": "Monkey",
+"clothId": "4228",
+"cloth": "https://imgur.com/N1fIqpZ.png",
+"description": "Act playful and silly like a mischievous monkey."
+},
+{
+"title": "Sleep",
+"clothId": "4229",
+"cloth": "https://imgur.com/GDIa1L7.png",
+"description": "Pretend to sleep or show you're feeling tired."
+},
+{
+"title": "Point 2",
+"clothId": "4230",
+"cloth": "https://imgur.com/z1O0mkY.png",
+"description": "Point confidently to direct attention or signal something."
+},
+{
+"title": "Quiet Waves",
+"clothId": "4231",
+"cloth": "https://imgur.com/MweOlbR.png",
+"description": "Wave gently in a calm and friendly manner."
+},
+{
+"title": "Godlike",
+"clothId": "4232",
+"cloth": "https://imgur.com/GxbDgcG.png",
+"description": "Radiate supreme confidence with a divine stance."
+}
+]
+}
+],
+"tips": [
+{
+"title": "Level Up Faster in Popular Games",
+"preview": "https://imgur.com/g3duTeH.png",
+"description": "Leveling up quickly in Roblox games like Adopt Me, Brookhaven, or Blox Fruits takes strategy and consistency. First, focus on completing daily tasks or quests, as they often provide more XP than regular activities. Join VIP or event servers to reduce crowding and get faster access to items or resources. Use in-game boosts (XP multipliers, speed boosts) when grinding for long sessions. Playing with friends can also help unlock bonus achievements faster. Lastly, check if the game offers codes for bonus XP — developers often post them on their social media or in the game description."
+},
+{
+"title": "Safe Trading Tips in Roblox",
+"preview": "https://imgur.com/GpPVUVa.png",
+"description": "Roblox trading can be fun and profitable, but it’s important to stay safe. Always trade using the official Roblox trading system — never trust players who ask you to trade via other websites or social apps. Before making a trade, check the value of your items using trusted sources like RAP (Recent Average Price). Be cautious of fake items and duplicated accessories that may look real. If someone pressures you to trade quickly or “gift” them something first, that’s a red flag. Enable 2-Step Verification and PIN lock on your account to prevent unauthorized trades."
+},
+{
+"title": "Secrets to Creating a Hit Game in Roblox Studio",
+"preview": "https://imgur.com/HywoM7w.png",
+"description": "Want to be a game developer in Roblox? Start by mastering Roblox Studio, the official development tool. Begin with a template like Obby, Racing, or City Life. Focus on smooth gameplay, fun mechanics, and eye-catching visuals. Use free models wisely — don’t overload your game with unoptimized assets. Add rewards, badges, and custom UI to improve user experience. Promote your game through Roblox groups or social media. Most importantly, listen to feedback — update your game regularly based on what players suggest. Over time, your game can gain popularity and even earn Robux through Game Passes and Dev Products."
+},
+{
+"title": "Mastering Avatar Customization",
+"preview": "https://imgur.com/NFnTfyM.png",
+"description": "Your avatar is your identity on Roblox. To stand out, explore different categories in the Avatar Shop like bundles, animations, layered clothing, and faces. Use filters to find free or recently added items. Mix and match items for a unique look — you don’t always need Robux to be stylish! You can also save outfits for quick changes using the \"Outfit\" feature. Pro tip: Equip a unique animation pack to bring your avatar to life while walking or jumping. Don’t forget to experiment in Avatar Editor to preview your look before heading into games."
+},
+{
+"title": "Avoiding Robux Scams & Staying Secure",
+"preview": "https://imgur.com/Gndb4K7.png",
+"description": "Unfortunately, many scams target Roblox players, especially when it comes to “free Robux.” Stay safe by following these tips:\n\nNever click on links that promise Robux outside the Roblox platform.\n\nDon’t enter your password anywhere other than the official login page.\n\nEnable 2-Step Verification in your settings for added protection.\n\nAvoid games that claim to generate Robux or ask you to complete offers.\n\nIf someone sends you suspicious messages or invites, report and block them.\n\nRemember: Roblox does not allow users to give away Robux directly — only through official methods like Game Passes or Group payouts."
+},
+{
+"title": "How to Earn Robux Without Spending Real Money",
+"preview": "https://imgur.com/ye6YkAy.png",
+"description": "Earning Robux without buying it is possible — but it takes effort and creativity. One of the best methods is game development: you can earn Robux through Game Passes or Dev Products in games you create using Roblox Studio. You can also sell clothing (shirts, pants) if you have a Premium membership.\n\nAnother method is joining Groups that pay active members through Robux payouts for participating in events, designing items, or promoting their games. Avoid “free Robux generators” — they are scams. Stick to legit methods through the Roblox ecosystem."
+},
+{
+"title": "How to Customize Your Roblox Profile Like a Pro",
+"preview": "https://imgur.com/e0XUBym.png",
+"description": "Your profile is your digital identity. To make it stand out:\n\nSet a creative status message that reflects your personality.\n\nUpload a cool avatar look using accessories, animations, and layered clothing.\n\nShowcase your badges, favorite games, and created items.\n\nJoin and display your membership in popular groups.\n\nKeep your profile public if you want others to find you easily, or adjust privacy for friends-only interaction.\n\nCheck profiles of popular players for inspiration — and make sure your username is memorable!"
+},
+{
+"title": "Understanding Roblox Premium & Why It’s Worth It",
+"preview": "https://imgur.com/53aqlLr.png",
+"description": "Roblox Premium is a subscription service that gives you a monthly Robux allowance (based on your plan), the ability to trade items, and the option to sell clothes and game passes. If you’re a regular player or creator, it’s a great investment.\n\nWith Premium, you also get discounts on some avatar items and better access to developer tools. Many successful creators and traders use Premium to grow their in-game economy. If you're serious about Roblox, Premium unlocks more freedom to earn, trade, and customize."
+},
+{
+"title": "Top Games to Try for Every Type of Player",
+"preview": "https://imgur.com/t8KdGpQ.png",
+"description": "Whether you're into action, roleplay, or puzzles, Roblox has something for everyone. Here’s a breakdown of must-try games by category:\n\nAction: Arsenal, Tower Defense Simulator, BedWars\n\nRoleplay: Brookhaven, Adopt Me, Livetopia\n\nSimulator: Pet Simulator X, Bee Swarm Simulator\n\nTycoon: Restaurant Tycoon 2, Theme Park Tycoon 2\n\nAdventure/Quests: Blox Fruits, Shindo Life\n\nThese games offer frequent updates and massive communities. Try a few from each genre to find what you enjoy most!"
+},
+{
+"title": "Unlock Secret Badges and Hidden Items in Roblox Games",
+"preview": "https://imgur.com/sVFclyQ.png",
+"description": "Many games include secret areas, hidden NPCs, or unlisted achievements that reward rare badges or items. To find them:\n\nExplore every corner of a map, even if it looks empty.\n\nJoin a community forum or Discord for insider info.\n\nComplete quests in a specific order to unlock secrets.\n\nTalk to all characters (NPCs) — some give hidden challenges.\n\nGames like Adopt Me, Shindo Life, and Piggy often hide special content during events. Unlocking these secrets gives you bragging rights — and often cool in-game rewards!"
+}
+],
+"calculator": [
+{
+"title": "USD To RBX",
+"preview": "https://imgur.com/Qumurlw.png"
+},
+{
+"title": "BC To RBX",
+"preview": "https://imgur.com/AjrXP9y.png"
+},
+{
+"title": "TBC To RBX",
+"preview": "https://imgur.com/bCAjODL.png"
+},
+{
+"title": "OBC To RBX",
+"preview": "https://imgur.com/LaE90JW.png"
+},
+{
+"title": "RBX To BC",
+"preview": "https://imgur.com/kNlDlo9.png"
+},
+{
+"title": "RBX To USD",
+"preview": "https://imgur.com/QAZ4UV9.png"
+}
+]
+}
+}
