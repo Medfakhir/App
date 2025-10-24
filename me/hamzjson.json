@@ -9,7 +9,7 @@
 "To run ads for each network, enter one of this : 'admob' , 'applovin' , 'ironsource', 'promote' ,'browser for open web url' ",
 "⚠️Warning: OpenAd work only on admob & applovin at time."
 ],
-"AdRunning": false,
+"AdRunning": true,
 "BannerNetwork": "admob",
 "InterstitialNetwork": "admob",
 "NativeNetwork": "admob",
