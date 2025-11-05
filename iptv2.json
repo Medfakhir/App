@@ -1,8 +1,8 @@
 {
   "server_url": "http://line.trx-ott.com",
   "backup_server_urls": [
-    "http://tv365.me",
-    "http://smarters.live:80",
+    "http://line.protv.cc:8000",
+    "http://line.rs6ott.com",
   ],
   "amplitude_api_key": "",
   "hide_server_url_input": false,
