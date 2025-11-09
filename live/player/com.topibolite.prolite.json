@@ -3,6 +3,10 @@
   "backup_server_urls": [
     "http://line.protv.cc:8000",
     "http://line.rs6ott.com",
+    "http://vpns365.xyz",
+    "http://tv365.me",
+    "http://smarters.live:80",
+    "http://wgiegjjk.mexamo.xyz",
   ],
   "amplitude_api_key": "d52a14892d7dbf91b7799314fdb565",
   "hide_server_url_input": true,
