@@ -1,5 +1,5 @@
 {
-  "server_url": "http://line.trx-ott.com"",
+  "server_url": "http://line.trx-ott.com",
   "backup_server_urls": [
     "http://line.protv.cc:8000",
     "http://line.rs6ott.com",
