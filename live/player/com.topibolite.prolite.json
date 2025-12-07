@@ -1,5 +1,5 @@
 {
-  "server_url": "",
+  "server_url": "http://line.trx-ott.com"",
   "backup_server_urls": [
     "http://line.protv.cc:8000",
     "http://line.rs6ott.com",
@@ -7,17 +7,16 @@
     "http://tv365.me",
     "http://smarters.live:80",
     "http://wgiegjjk.mexamo.xyz",
-    "http://line.trx-ott.com",
     
   ],
   "amplitude_api_key": "d52a14892d7dbf91b7799314fdb565",
-  "hide_server_url_input": false,
-  "show_marketing_text": false,
+  "hide_server_url_input": true,
+  "show_marketing_text": true,
   "marketing_text": "THIS PLAYER IS ONLY FOR VXIPTV USERS",
-  "show_pricing": false,
+  "show_pricing": true,
   "pricing_text": "Get 24h Free Trial From our website",
   "qr_setup_url": "https://vxiptv.com/",
   "qr_instructions": "To add playlist scan the QR or visit web site",
-  "use_custom_qr_image": false,
+  "use_custom_qr_image": true,
   "custom_qr_image_url": "https://vxiptv.com/vxiptvqr.png"
 }
