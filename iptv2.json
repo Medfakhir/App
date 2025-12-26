@@ -10,13 +10,13 @@
     "http://line.trx-ott.com",
   ],
   "amplitude_api_key": "",
-  "hide_server_url_input": true,
-  "show_marketing_text": true,
+  "hide_server_url_input": false,
+  "show_marketing_text": false,
   "marketing_text": "THIS PLAYER IS ONLY FOR VXIPTV USERS",
-  "show_pricing": true,
+  "show_pricing": false,
   "pricing_text": "Get 24h Free Trial From our website",
   "qr_setup_url": "https://vxiptv.com/",
   "qr_instructions": "To add playlist scan the QR or visit web site",
-  "use_custom_qr_image": true,
+  "use_custom_qr_image": false,
   "custom_qr_image_url": "https://vxiptv.com/vxiptvqr.png"
 }
